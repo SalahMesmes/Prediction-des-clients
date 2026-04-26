@@ -1,0 +1,1001 @@
+IdentifiantClient,Genre,Age,AncienneteMois,TypeContrat,ServiceInternet,SecuriteEnLigne,SupportTechnique,MethodePaiement,FacturationDematerialisee,MontantMensuel,MontantTotal,ScoreSatisfaction,NombreReclamations,ClientParti
+CLI0001,Homme,19,36,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,85.1,3035.19,1,0,Oui
+CLI0002,Femme,32,58,Un an,ADSL,Oui,Non,Virement bancaire,Non,71.5,4122.56,3,0,Oui
+CLI0003,Femme,56,34,Deux ans,ADSL,Oui,Non,Chèque électronique,Non,58.58,1965.89,5,3,Non
+CLI0004,Femme,23,30,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Non,100.84,2999.48,2,1,Non
+CLI0005,Homme,28,60,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,31.64,1882.14,3,2,Oui
+CLI0006,Femme,43,35,Mensuel,Aucun,Non,Non,Carte bancaire,Non,25.93,932.42,2,1,Oui
+CLI0007,Femme,26,32,Un an,ADSL,Non,Oui,Carte bancaire,Non,56.22,1814.39,2,5,Non
+CLI0008,Homme,58,21,Un an,Fibre optique,Oui,Oui,Chèque postal,Non,90.16,1895.58,5,2,Oui
+CLI0009,Femme,25,38,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,62.41,2359.49,5,3,Oui
+CLI0010,Homme,27,48,Un an,ADSL,Non,Oui,Chèque électronique,Non,74.73,3606.94,4,0,Oui
+CLI0011,Homme,33,11,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,57.0,633.4,4,4,Non
+CLI0012,Homme,63,40,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,54.3,2177.31,2,0,Oui
+CLI0013,Homme,32,9,Deux ans,Aucun,Non,Non,Chèque électronique,Oui,23.21,186.83,3,1,Non
+CLI0014,Femme,33,61,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Non,113.03,6885.19,1,1,Non
+CLI0015,Homme,30,25,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,110.93,2775.69,4,2,Oui
+CLI0016,Homme,77,31,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,68.98,2133.76,1,5,Non
+CLI0017,Femme,27,25,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,28.76,719.17,3,0,Non
+CLI0018,Homme,21,66,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,87.84,5804.6,5,0,Oui
+CLI0019,Femme,77,34,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,73.75,2537.41,4,0,Non
+CLI0020,Homme,52,28,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,105.3,2966.83,2,0,Oui
+CLI0021,Femme,77,14,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Non,107.39,1489.3,3,1,Non
+CLI0022,Homme,23,55,Deux ans,Fibre optique,Oui,Oui,Chèque postal,Oui,93.43,5161.64,4,1,Non
+CLI0023,Homme,71,48,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,93.67,4519.21,3,0,Non
+CLI0024,Homme,77,31,Deux ans,Aucun,Non,Non,Virement bancaire,Non,33.87,1066.91,1,0,Oui
+CLI0025,Homme,35,21,Un an,Fibre optique,Non,Non,Chèque électronique,Non,93.86,1954.72,3,0,Oui
+CLI0026,Homme,43,43,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,105.36,4558.23,1,0,Oui
+CLI0027,Homme,56,56,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,62.36,3510.55,3,0,Non
+CLI0028,Homme,41,56,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,68.05,3788.44,5,0,Non
+CLI0029,Femme,61,23,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,97.49,2242.94,5,1,Non
+CLI0030,Homme,60,11,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,54.15,580.34,3,0,Oui
+CLI0031,Homme,47,54,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,73.41,3980.85,1,3,Oui
+CLI0032,Femme,21,72,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,67.92,4910.07,4,1,Non
+CLI0033,Homme,65,61,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,53.55,3252.85,2,0,Oui
+CLI0034,Homme,26,20,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,69.38,1403.79,4,0,Non
+CLI0035,Homme,72,49,Mensuel,Aucun,Non,Non,Chèque électronique,Non,31.02,1537.97,4,1,Non
+CLI0036,Femme,32,35,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Oui,108.16,3810.02,4,3,Oui
+CLI0037,Homme,23,55,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,73.67,4036.99,3,2,Oui
+CLI0038,Homme,65,70,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,34.24,2378.76,1,2,Oui
+CLI0039,Homme,33,17,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,108.94,1868.65,2,1,Oui
+CLI0040,Femme,24,4,Deux ans,ADSL,Non,Oui,Chèque postal,Oui,68.31,285.07,1,1,Oui
+CLI0041,Homme,68,6,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,119.07,726.86,4,0,Oui
+CLI0042,Femme,57,69,Un an,ADSL,Non,Oui,Chèque électronique,Oui,64.27,4438.82,1,0,Non
+CLI0043,Femme,19,64,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Non,104.04,6671.76,5,0,Non
+CLI0044,Homme,62,61,Un an,ADSL,Non,Oui,Chèque électronique,Oui,61.25,3726.88,3,1,Non
+CLI0045,Femme,40,59,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,106.43,6280.85,2,0,Oui
+CLI0046,Homme,71,25,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,96.81,2442.36,1,1,Oui
+CLI0047,Homme,54,37,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Non,96.95,3560.37,1,2,Oui
+CLI0048,Femme,23,32,Mensuel,ADSL,Non,Non,Chèque électronique,Non,50.95,1635.71,4,3,Oui
+CLI0049,Homme,57,13,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Oui,78.23,1022.62,5,0,Non
+CLI0050,Homme,36,37,Un an,ADSL,Non,Non,Virement bancaire,Oui,49.5,1810.44,4,0,Oui
+CLI0051,Homme,22,8,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,102.59,820.75,4,1,Oui
+CLI0052,Homme,56,6,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,66.49,400.08,3,1,Non
+CLI0053,Femme,29,56,Un an,ADSL,Oui,Oui,Chèque électronique,Oui,77.51,4359.37,2,0,Non
+CLI0054,Femme,23,41,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,71.63,2937.94,5,0,Non
+CLI0055,Femme,58,57,Un an,Fibre optique,Oui,Non,Carte bancaire,Non,99.5,5684.09,1,0,Oui
+CLI0056,Homme,53,53,Mensuel,Aucun,Non,Non,Chèque postal,Non,22.31,1208.39,1,1,Oui
+CLI0057,Femme,44,62,Deux ans,Fibre optique,Non,Oui,Chèque postal,Oui,101.6,6325.25,1,0,Non
+CLI0058,Homme,36,39,Deux ans,ADSL,Non,Non,Carte bancaire,Non,60.26,2342.77,3,0,Non
+CLI0059,Homme,80,31,Un an,Fibre optique,Non,Oui,Virement bancaire,Non,103.34,3182.67,4,5,Non
+CLI0060,Homme,50,43,Deux ans,Aucun,Non,Non,Carte bancaire,Non,26.15,1133.74,1,1,Oui
+CLI0061,Femme,68,34,Mensuel,ADSL,Non,Non,Virement bancaire,Non,62.75,2132.78,3,1,Non
+CLI0062,Homme,33,37,Deux ans,ADSL,Oui,Oui,Carte bancaire,Oui,63.46,2321.39,4,0,Non
+CLI0063,Femme,27,32,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,64.04,2033.21,5,1,Non
+CLI0064,Femme,34,2,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,82.27,152.67,5,0,Non
+CLI0065,Femme,24,31,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,106.4,3326.82,3,0,Non
+CLI0066,Femme,71,37,Un an,Fibre optique,Non,Oui,Chèque électronique,Non,106.63,3933.85,2,1,Oui
+CLI0067,Femme,64,17,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,84.33,1458.45,5,1,Non
+CLI0068,Femme,65,44,Deux ans,ADSL,Oui,Non,Chèque électronique,Non,65.91,2902.23,5,0,Non
+CLI0069,Femme,55,49,Deux ans,Aucun,Non,Non,Chèque électronique,Oui,33.26,1633.42,4,0,Non
+CLI0070,Homme,59,9,Un an,ADSL,Non,Non,Chèque électronique,Oui,54.85,469.48,1,0,Non
+CLI0071,Homme,42,59,Mensuel,Aucun,Non,Non,Virement bancaire,Non,22.32,1311.77,5,1,Oui
+CLI0072,Femme,57,53,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,99.38,5295.81,3,0,Non
+CLI0073,Femme,35,25,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,28.96,695.28,2,1,Non
+CLI0074,Homme,26,27,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,75.75,2074.5,2,2,Oui
+CLI0075,Homme,25,4,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,88.42,327.49,1,0,Oui
+CLI0076,Femme,50,14,Mensuel,Fibre optique,Non,Non,Chèque postal,Non,70.93,1022.94,4,1,Non
+CLI0077,Femme,61,14,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,20.99,280.36,3,1,Oui
+CLI0078,Femme,42,68,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,56.94,3869.13,4,0,Oui
+CLI0079,Homme,38,55,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,72.9,4023.83,1,0,Non
+CLI0080,Homme,55,72,Un an,ADSL,Oui,Non,Chèque postal,Non,64.47,4646.52,1,4,Oui
+CLI0081,Femme,32,14,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,80.16,1093.82,5,4,Non
+CLI0082,Femme,19,24,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,56.58,1386.23,5,1,Oui
+CLI0083,Homme,42,54,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,103.55,5588.29,1,0,Oui
+CLI0084,Femme,44,35,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,62.87,2170.91,5,1,Non
+CLI0085,Homme,67,18,Un an,Fibre optique,Oui,Oui,Carte bancaire,Oui,95.49,1710.07,4,1,Non
+CLI0086,Homme,45,3,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,88.51,272.62,3,0,Non
+CLI0087,Femme,23,56,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Non,98.91,5546.95,3,0,Non
+CLI0088,Homme,75,45,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,23.84,1053.21,2,0,Oui
+CLI0089,Homme,29,64,Mensuel,ADSL,Non,Non,Virement bancaire,Non,46.37,2964.21,3,0,Oui
+CLI0090,Femme,55,8,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,114.11,905.95,1,1,Oui
+CLI0091,Homme,46,25,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,63.25,1577.62,1,1,Oui
+CLI0092,Homme,41,48,Deux ans,Fibre optique,Non,Non,Chèque électronique,Non,86.74,4156.71,1,0,Oui
+CLI0093,Homme,39,11,Un an,Fibre optique,Oui,Non,Virement bancaire,Non,105.31,1151.01,2,1,Non
+CLI0094,Homme,60,68,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,67.27,4548.99,3,4,Non
+CLI0095,Homme,50,70,Deux ans,Aucun,Non,Non,Chèque électronique,Non,25.65,1775.23,5,0,Non
+CLI0096,Homme,64,57,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,79.28,4537.48,2,1,Oui
+CLI0097,Homme,41,57,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,98.11,5595.54,5,0,Oui
+CLI0098,Homme,36,11,Un an,Fibre optique,Non,Oui,Carte bancaire,Oui,105.82,1157.81,4,3,Oui
+CLI0099,Femme,23,48,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,105.83,5099.71,2,0,Oui
+CLI0100,Femme,46,1,Deux ans,Fibre optique,Oui,Oui,Chèque postal,Non,89.65,97.99,1,2,Oui
+CLI0101,Homme,25,64,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,94.78,6041.06,1,1,Non
+CLI0102,Homme,79,68,Mensuel,ADSL,Oui,Oui,Virement bancaire,Oui,65.71,4458.97,4,5,Non
+CLI0103,Homme,67,43,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,99.79,4307.54,4,1,Oui
+CLI0104,Femme,30,6,Un an,Aucun,Non,Non,Chèque électronique,Non,32.23,191.78,5,0,Oui
+CLI0105,Homme,36,46,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Non,104.55,4837.72,4,1,Non
+CLI0106,Femme,41,67,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,87.44,5855.23,5,0,Non
+CLI0107,Homme,62,57,Mensuel,Fibre optique,Non,Oui,Chèque postal,Non,96.67,5528.26,1,0,Oui
+CLI0108,Homme,27,57,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,91.09,5188.77,5,0,Oui
+CLI0109,Homme,51,47,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,69.89,3281.61,5,0,Non
+CLI0110,Femme,62,63,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,107.17,6739.71,3,1,Oui
+CLI0111,Homme,68,47,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,100.55,4732.57,3,1,Oui
+CLI0112,Femme,43,62,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,61.25,3817.24,4,0,Non
+CLI0113,Homme,67,17,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,22.47,371.35,5,0,Non
+CLI0114,Femme,78,67,Deux ans,ADSL,Oui,Non,Carte bancaire,Oui,56.36,3781.63,3,1,Non
+CLI0115,Homme,60,44,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,62.8,2763.08,2,2,Non
+CLI0116,Femme,59,39,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,61.11,2389.69,2,0,Oui
+CLI0117,Femme,64,45,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,90.15,4049.8,1,0,Non
+CLI0118,Homme,79,21,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,27.72,582.05,2,0,Oui
+CLI0119,Homme,23,51,Mensuel,Aucun,Non,Non,Chèque électronique,Non,27.42,1421.36,1,0,Oui
+CLI0120,Femme,36,69,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,88.01,6060.01,3,0,Oui
+CLI0121,Femme,66,71,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,25.91,1857.3,2,4,Oui
+CLI0122,Femme,66,19,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,65.21,1264.87,4,1,Oui
+CLI0123,Femme,57,39,Un an,ADSL,Oui,Oui,Carte bancaire,Non,79.42,3115.19,1,0,Non
+CLI0124,Homme,56,61,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,65.53,4013.81,5,0,Non
+CLI0125,Homme,20,15,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,106.47,1595.75,1,1,Oui
+CLI0126,Homme,47,69,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,98.72,6798.42,5,0,Oui
+CLI0127,Femme,67,37,Un an,ADSL,Oui,Oui,Carte bancaire,Non,78.05,2906.95,3,0,Non
+CLI0128,Homme,36,6,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,77.18,441.32,2,0,Oui
+CLI0129,Homme,33,7,Un an,ADSL,Non,Oui,Carte bancaire,Non,59.5,445.17,1,1,Oui
+CLI0130,Femme,48,26,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,112.22,2912.79,5,1,Non
+CLI0131,Homme,71,51,Un an,Fibre optique,Non,Non,Chèque électronique,Oui,88.08,4517.79,1,0,Oui
+CLI0132,Femme,59,70,Mensuel,Aucun,Non,Non,Chèque électronique,Non,21.69,1498.05,3,0,Oui
+CLI0133,Femme,63,24,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,82.29,1956.05,4,1,Oui
+CLI0134,Femme,77,32,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,102.05,3254.01,3,1,Oui
+CLI0135,Femme,62,16,Un an,Aucun,Non,Non,Chèque électronique,Oui,27.17,432.02,2,4,Non
+CLI0136,Femme,44,71,Deux ans,ADSL,Non,Non,Virement bancaire,Oui,59.08,4169.37,5,0,Non
+CLI0137,Homme,71,71,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Non,111.22,7893.35,1,1,Oui
+CLI0138,Homme,50,54,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,101.42,5449.4,3,2,Oui
+CLI0139,Homme,52,8,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,104.88,864.07,4,0,Non
+CLI0140,Homme,61,70,Mensuel,Aucun,Non,Non,Chèque électronique,Non,34.68,2447.69,5,0,Non
+CLI0141,Femme,47,70,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,110.66,7769.54,1,0,Oui
+CLI0142,Homme,24,5,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,70.52,331.01,2,1,Non
+CLI0143,Homme,70,41,Un an,ADSL,Non,Oui,Virement bancaire,Oui,57.86,2395.04,4,0,Non
+CLI0144,Femme,53,64,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,91.57,5858.89,4,0,Non
+CLI0145,Femme,72,19,Deux ans,Aucun,Non,Non,Carte bancaire,Non,25.83,476.07,5,1,Non
+CLI0146,Homme,77,58,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Oui,102.92,5972.89,1,0,Oui
+CLI0147,Femme,37,2,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,81.9,148.16,5,1,Oui
+CLI0148,Femme,42,60,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,93.22,5565.94,4,2,Non
+CLI0149,Homme,19,34,Un an,ADSL,Non,Oui,Chèque électronique,Oui,58.77,2024.79,4,1,Non
+CLI0150,Femme,79,63,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,83.69,5246.93,5,5,Non
+CLI0151,Homme,66,1,Mensuel,ADSL,Oui,Non,Chèque électronique,Non,69.29,94.06,3,0,Oui
+CLI0152,Homme,18,69,Un an,Fibre optique,Oui,Oui,Chèque postal,Oui,112.23,7720.29,5,2,Oui
+CLI0153,Homme,33,25,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,106.29,2668.29,4,1,Non
+CLI0154,Homme,23,52,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,75.28,3938.25,4,1,Non
+CLI0155,Homme,31,61,Mensuel,Aucun,Non,Non,Virement bancaire,Non,20.49,1275.62,5,1,Oui
+CLI0156,Homme,55,19,Un an,ADSL,Oui,Oui,Chèque électronique,Oui,71.38,1371.56,5,2,Oui
+CLI0157,Homme,50,45,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,90.15,4056.19,3,0,Oui
+CLI0158,Femme,45,24,Un an,ADSL,Oui,Non,Virement bancaire,Oui,63.09,1493.42,1,0,Oui
+CLI0159,Femme,24,12,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,99.68,1187.39,4,0,Oui
+CLI0160,Femme,73,50,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,90.56,4508.17,5,1,Oui
+CLI0161,Femme,49,19,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,102.4,1923.73,2,1,Oui
+CLI0162,Femme,39,49,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Oui,104.82,5125.03,3,0,Non
+CLI0163,Femme,36,63,Deux ans,ADSL,Oui,Oui,Virement bancaire,Non,67.24,4252.18,1,3,Oui
+CLI0164,Femme,78,27,Mensuel,Fibre optique,Non,Non,Virement bancaire,Non,79.08,2120.32,4,0,Oui
+CLI0165,Femme,68,49,Mensuel,Aucun,Non,Non,Carte bancaire,Non,33.81,1668.19,5,1,Non
+CLI0166,Femme,62,69,Un an,Aucun,Non,Non,Chèque électronique,Oui,29.19,2017.9,3,0,Non
+CLI0167,Femme,79,43,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Oui,103.48,4428.68,4,0,Non
+CLI0168,Femme,24,38,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,26.83,1001.95,3,0,Oui
+CLI0169,Femme,24,57,Un an,ADSL,Oui,Oui,Virement bancaire,Oui,76.58,4349.69,3,1,Non
+CLI0170,Homme,39,72,Mensuel,ADSL,Non,Non,Chèque électronique,Non,57.28,4106.0,4,0,Non
+CLI0171,Femme,18,28,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,60.99,1729.48,3,0,Oui
+CLI0172,Femme,56,50,Un an,ADSL,Oui,Non,Carte bancaire,Non,65.63,3265.81,5,1,Non
+CLI0173,Femme,62,19,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,95.87,1828.69,5,0,Non
+CLI0174,Homme,49,18,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,83.32,1479.8,4,1,Oui
+CLI0175,Homme,36,5,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,72.13,390.1,5,1,Non
+CLI0176,Homme,66,57,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,20.48,1153.13,3,3,Non
+CLI0177,Homme,46,16,Un an,Fibre optique,Non,Oui,Chèque électronique,Non,104.24,1686.17,2,1,Oui
+CLI0178,Femme,56,69,Mensuel,Aucun,Non,Non,Chèque électronique,Non,30.19,2058.82,5,5,Non
+CLI0179,Femme,76,8,Deux ans,Aucun,Non,Non,Chèque électronique,Oui,24.83,183.49,2,0,Non
+CLI0180,Femme,49,19,Un an,Fibre optique,Oui,Oui,Carte bancaire,Oui,97.48,1879.14,4,1,Non
+CLI0181,Homme,73,12,Un an,ADSL,Non,Oui,Chèque électronique,Non,69.96,828.89,2,4,Oui
+CLI0182,Homme,54,63,Un an,Aucun,Non,Non,Virement bancaire,Oui,32.55,2021.63,1,1,Non
+CLI0183,Homme,46,59,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,33.99,1991.85,3,0,Non
+CLI0184,Femme,23,48,Un an,ADSL,Oui,Non,Virement bancaire,Oui,64.08,3074.45,4,1,Oui
+CLI0185,Homme,51,57,Mensuel,ADSL,Non,Non,Carte bancaire,Oui,52.66,3015.47,4,0,Oui
+CLI0186,Femme,41,39,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,54.72,2130.49,1,1,Non
+CLI0187,Homme,76,53,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,88.55,4710.61,5,1,Oui
+CLI0188,Homme,33,71,Un an,ADSL,Oui,Non,Chèque électronique,Non,65.43,4633.26,2,1,Oui
+CLI0189,Homme,49,50,Mensuel,ADSL,Non,Oui,Chèque postal,Non,71.19,3551.42,3,0,Non
+CLI0190,Femme,79,10,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,109.71,1091.24,5,0,Non
+CLI0191,Homme,35,11,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,71.46,760.03,5,1,Non
+CLI0192,Homme,21,32,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,79.2,2534.18,1,0,Oui
+CLI0193,Femme,28,48,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,55.89,2695.46,3,2,Oui
+CLI0194,Homme,49,59,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,83.65,4905.5,5,1,Non
+CLI0195,Homme,33,6,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,92.53,541.46,2,0,Oui
+CLI0196,Femme,25,65,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,113.57,7357.23,1,3,Oui
+CLI0197,Femme,30,38,Un an,Fibre optique,Non,Oui,Carte bancaire,Non,96.97,3663.89,2,1,Non
+CLI0198,Homme,32,70,Mensuel,ADSL,Non,Non,Chèque électronique,Non,55.6,3876.29,3,0,Oui
+CLI0199,Homme,80,19,Un an,Fibre optique,Non,Non,Carte bancaire,Non,72.55,1354.18,4,4,Oui
+CLI0200,Femme,22,8,Mensuel,Aucun,Non,Non,Chèque électronique,Non,25.89,227.03,3,3,Oui
+CLI0201,Femme,35,30,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,90.95,2756.38,4,0,Oui
+CLI0202,Femme,47,34,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Oui,85.47,2890.87,2,2,Oui
+CLI0203,Homme,61,39,Mensuel,Aucun,Non,Non,Chèque électronique,Non,28.25,1077.43,4,1,Oui
+CLI0204,Homme,25,2,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,80.85,143.57,5,1,Non
+CLI0205,Homme,23,43,Mensuel,Aucun,Non,Non,Chèque électronique,Non,25.74,1102.42,4,0,Oui
+CLI0206,Homme,35,36,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,84.37,3012.58,4,3,Oui
+CLI0207,Femme,30,68,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,25.39,1729.19,4,2,Oui
+CLI0208,Femme,42,35,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,105.0,3703.44,4,1,Oui
+CLI0209,Homme,35,69,Deux ans,Aucun,Non,Non,Chèque électronique,Oui,31.96,2196.53,5,2,Non
+CLI0210,Homme,29,31,Un an,ADSL,Non,Non,Chèque électronique,Non,56.26,1725.35,5,1,Non
+CLI0211,Femme,52,40,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,99.07,3953.25,1,0,Oui
+CLI0212,Femme,21,3,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,77.31,220.04,1,0,Oui
+CLI0213,Homme,64,56,Un an,Aucun,Non,Non,Carte bancaire,Oui,33.93,1917.3,5,1,Non
+CLI0214,Homme,42,40,Un an,Fibre optique,Oui,Oui,Virement bancaire,Non,111.29,4434.85,5,0,Non
+CLI0215,Femme,27,43,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,84.7,3616.17,3,0,Oui
+CLI0216,Homme,64,1,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,92.45,101.51,3,1,Non
+CLI0217,Homme,46,10,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,91.94,948.08,2,3,Oui
+CLI0218,Femme,63,4,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,62.06,273.77,2,4,Oui
+CLI0219,Femme,37,31,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,112.45,3461.77,4,0,Oui
+CLI0220,Femme,80,11,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,89.22,974.31,1,1,Oui
+CLI0221,Homme,34,57,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,112.44,6392.73,1,1,Oui
+CLI0222,Femme,70,67,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,73.06,4895.15,3,0,Non
+CLI0223,Homme,25,58,Mensuel,Aucun,Non,Non,Chèque postal,Oui,21.18,1239.43,2,0,Oui
+CLI0224,Homme,71,34,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,68.43,2338.64,3,1,Non
+CLI0225,Femme,25,54,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,60.71,3300.39,5,2,Non
+CLI0226,Femme,34,50,Un an,ADSL,Oui,Oui,Carte bancaire,Non,77.76,3886.51,1,0,Oui
+CLI0227,Femme,19,44,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Oui,118.11,5183.01,2,0,Oui
+CLI0228,Homme,30,57,Mensuel,ADSL,Non,Non,Virement bancaire,Oui,46.31,2652.24,5,2,Oui
+CLI0229,Homme,29,25,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,112.69,2794.68,2,0,Oui
+CLI0230,Femme,49,58,Mensuel,Aucun,Non,Non,Carte bancaire,Non,33.42,1953.3,3,0,Non
+CLI0231,Femme,19,50,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,30.17,1494.65,2,1,Oui
+CLI0232,Homme,73,2,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,88.74,162.6,3,0,Oui
+CLI0233,Femme,55,14,Mensuel,Aucun,Non,Non,Chèque postal,Non,29.14,395.87,5,1,Oui
+CLI0234,Homme,39,36,Un an,Aucun,Non,Non,Chèque électronique,Non,31.48,1157.26,2,0,Non
+CLI0235,Femme,60,41,Un an,ADSL,Non,Non,Chèque électronique,Non,45.71,1886.59,4,0,Non
+CLI0236,Homme,39,29,Un an,ADSL,Oui,Non,Chèque électronique,Non,68.8,1971.06,2,2,Oui
+CLI0237,Femme,64,72,Un an,Fibre optique,Non,Oui,Chèque électronique,Non,89.73,6450.44,2,1,Oui
+CLI0238,Femme,47,16,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,27.51,462.21,4,3,Oui
+CLI0239,Femme,44,7,Deux ans,Fibre optique,Non,Oui,Chèque postal,Non,101.92,712.69,2,0,Non
+CLI0240,Homme,38,8,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,91.02,723.9,1,0,Oui
+CLI0241,Homme,20,69,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,105.4,7263.26,1,1,Oui
+CLI0242,Femme,50,40,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,83.62,3336.36,4,3,Oui
+CLI0243,Femme,19,30,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,21.85,668.17,5,1,Non
+CLI0244,Femme,74,33,Un an,ADSL,Non,Oui,Chèque électronique,Oui,61.0,2015.84,1,1,Oui
+CLI0245,Homme,31,2,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,57.13,91.32,4,2,Oui
+CLI0246,Homme,49,26,Un an,ADSL,Non,Non,Chèque électronique,Non,55.96,1479.58,3,0,Non
+CLI0247,Femme,39,31,Mensuel,ADSL,Non,Non,Virement bancaire,Oui,46.5,1454.91,1,2,Non
+CLI0248,Homme,47,38,Mensuel,Fibre optique,Non,Non,Virement bancaire,Non,73.48,2813.31,3,0,Non
+CLI0249,Homme,72,18,Un an,Fibre optique,Oui,Oui,Carte bancaire,Oui,95.03,1696.85,3,2,Oui
+CLI0250,Femme,69,54,Un an,ADSL,Oui,Non,Chèque électronique,Oui,67.43,3651.92,1,0,Oui
+CLI0251,Femme,67,46,Un an,Aucun,Non,Non,Virement bancaire,Oui,21.69,992.42,4,3,Oui
+CLI0252,Femme,59,41,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,30.32,1250.21,3,1,Oui
+CLI0253,Homme,48,45,Un an,ADSL,Oui,Non,Virement bancaire,Oui,59.08,2679.71,1,1,Non
+CLI0254,Homme,66,63,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,89.49,5613.15,4,2,Oui
+CLI0255,Femme,25,64,Un an,Fibre optique,Oui,Oui,Carte bancaire,Oui,109.29,7003.84,5,4,Non
+CLI0256,Femme,41,7,Deux ans,ADSL,Oui,Non,Carte bancaire,Non,66.74,457.66,4,0,Non
+CLI0257,Femme,53,67,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,81.72,5496.37,1,0,Oui
+CLI0258,Homme,63,44,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,98.69,4320.44,4,1,Oui
+CLI0259,Homme,53,56,Deux ans,ADSL,Oui,Non,Chèque électronique,Oui,67.39,3763.15,2,0,Non
+CLI0260,Femme,80,32,Mensuel,Aucun,Non,Non,Chèque postal,Non,29.04,952.47,2,0,Oui
+CLI0261,Femme,63,71,Un an,Fibre optique,Non,Oui,Chèque électronique,Oui,98.09,6941.31,2,1,Oui
+CLI0262,Femme,55,54,Un an,Aucun,Non,Non,Carte bancaire,Non,20.38,1079.24,1,1,Non
+CLI0263,Homme,35,21,Deux ans,ADSL,Oui,Oui,Virement bancaire,Oui,78.07,1653.84,5,0,Non
+CLI0264,Femme,33,66,Un an,ADSL,Oui,Non,Chèque postal,Non,71.71,4735.99,4,4,Oui
+CLI0265,Femme,30,57,Deux ans,Aucun,Non,Non,Virement bancaire,Non,29.05,1672.42,5,1,Non
+CLI0266,Femme,46,23,Deux ans,Fibre optique,Non,Non,Chèque électronique,Oui,77.93,1772.05,4,0,Non
+CLI0267,Homme,39,60,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,101.97,6119.72,4,2,Non
+CLI0268,Homme,68,65,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,68.35,4472.55,3,0,Non
+CLI0269,Homme,25,45,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,24.81,1141.41,1,1,Non
+CLI0270,Femme,34,70,Un an,Fibre optique,Oui,Non,Carte bancaire,Non,103.3,7231.83,4,0,Non
+CLI0271,Homme,80,69,Mensuel,ADSL,Oui,Non,Chèque électronique,Non,72.73,5032.85,1,0,Oui
+CLI0272,Homme,65,20,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,80.66,1610.27,5,0,Non
+CLI0273,Femme,19,50,Un an,ADSL,Non,Non,Virement bancaire,Oui,55.06,2740.39,1,0,Non
+CLI0274,Homme,36,57,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,75.98,4358.78,5,0,Non
+CLI0275,Femme,79,2,Un an,ADSL,Oui,Oui,Carte bancaire,Oui,76.39,177.12,3,0,Non
+CLI0276,Homme,28,24,Mensuel,ADSL,Oui,Oui,Virement bancaire,Oui,68.5,1619.89,5,0,Non
+CLI0277,Femme,78,43,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,71.04,3033.86,3,0,Non
+CLI0278,Femme,79,55,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,91.99,5082.12,3,0,Oui
+CLI0279,Femme,67,40,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,101.39,4069.25,5,0,Non
+CLI0280,Homme,70,52,Un an,Fibre optique,Oui,Oui,Virement bancaire,Non,97.24,5043.94,2,0,Non
+CLI0281,Homme,43,47,Mensuel,ADSL,Non,Non,Carte bancaire,Oui,48.18,2268.44,5,0,Non
+CLI0282,Homme,65,62,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Oui,96.08,5950.25,1,1,Non
+CLI0283,Homme,20,42,Mensuel,Aucun,Non,Non,Carte bancaire,Non,28.55,1191.7,3,1,Oui
+CLI0284,Homme,51,33,Mensuel,Aucun,Non,Non,Carte bancaire,Non,27.23,904.84,3,0,Oui
+CLI0285,Homme,46,22,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,67.12,1475.38,2,0,Oui
+CLI0286,Femme,19,32,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,72.07,2300.57,1,0,Non
+CLI0287,Homme,74,37,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,104.58,3850.37,4,1,Non
+CLI0288,Femme,28,44,Deux ans,ADSL,Oui,Oui,Chèque électronique,Oui,83.76,3691.77,2,1,Oui
+CLI0289,Homme,74,69,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,95.12,6547.05,4,1,Non
+CLI0290,Femme,40,13,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,91.27,1203.88,3,0,Oui
+CLI0291,Homme,51,1,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,103.61,103.61,5,0,Oui
+CLI0292,Femme,66,27,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,74.24,2026.31,3,1,Oui
+CLI0293,Homme,46,21,Mensuel,ADSL,Non,Non,Carte bancaire,Oui,57.72,1230.38,2,0,Non
+CLI0294,Femme,77,56,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,90.34,5032.49,5,1,Non
+CLI0295,Homme,58,64,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,90.95,5827.71,5,1,Non
+CLI0296,Femme,33,1,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Non,91.82,94.8,5,0,Non
+CLI0297,Femme,40,36,Mensuel,Aucun,Non,Non,Carte bancaire,Non,22.63,815.05,5,0,Non
+CLI0298,Femme,39,15,Deux ans,Aucun,Non,Non,Virement bancaire,Non,28.45,442.95,4,4,Non
+CLI0299,Femme,61,59,Deux ans,Aucun,Non,Non,Carte bancaire,Non,31.83,1861.19,1,0,Non
+CLI0300,Femme,44,46,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,82.55,3780.41,1,1,Oui
+CLI0301,Homme,78,25,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,80.68,2033.74,2,2,Oui
+CLI0302,Homme,61,64,Un an,ADSL,Oui,Oui,Carte bancaire,Non,78.56,5008.81,4,3,Non
+CLI0303,Femme,43,29,Un an,Fibre optique,Oui,Oui,Chèque postal,Oui,114.44,3295.98,5,0,Non
+CLI0304,Femme,62,2,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,85.41,177.61,2,1,Oui
+CLI0305,Femme,45,27,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,81.96,2216.24,5,1,Non
+CLI0306,Homme,27,20,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,103.63,2084.03,4,0,Oui
+CLI0307,Femme,48,13,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Non,96.45,1235.79,3,0,Non
+CLI0308,Homme,80,37,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,63.65,2335.1,5,0,Non
+CLI0309,Femme,44,52,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,103.54,5410.41,3,1,Non
+CLI0310,Femme,44,22,Mensuel,Fibre optique,Non,Non,Chèque postal,Oui,73.09,1581.81,2,0,Non
+CLI0311,Homme,19,51,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,33.28,1685.84,1,1,Oui
+CLI0312,Femme,46,17,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,73.96,1260.23,4,0,Oui
+CLI0313,Homme,55,59,Un an,ADSL,Non,Oui,Carte bancaire,Non,55.17,3243.5,3,0,Non
+CLI0314,Homme,37,2,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,59.61,115.05,4,4,Oui
+CLI0315,Homme,68,1,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,81.75,82.75,4,0,Non
+CLI0316,Femme,36,69,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Non,99.46,6851.98,5,0,Non
+CLI0317,Homme,29,14,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,101.6,1414.68,4,0,Non
+CLI0318,Homme,39,11,Deux ans,Aucun,Non,Non,Chèque électronique,Non,22.72,273.66,1,1,Oui
+CLI0319,Femme,71,2,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,69.07,167.07,2,0,Oui
+CLI0320,Femme,77,42,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,73.8,3082.67,3,0,Oui
+CLI0321,Femme,38,2,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,93.43,179.14,5,2,Oui
+CLI0322,Homme,49,12,Un an,Fibre optique,Non,Non,Chèque électronique,Non,93.74,1102.43,2,1,Oui
+CLI0323,Femme,69,57,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,95.57,5446.9,4,1,Non
+CLI0324,Femme,38,60,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,57.84,3440.44,4,0,Non
+CLI0325,Femme,64,24,Deux ans,ADSL,Oui,Non,Chèque électronique,Oui,58.58,1421.86,5,2,Oui
+CLI0326,Femme,38,53,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,90.15,4782.21,2,3,Non
+CLI0327,Femme,51,33,Mensuel,Fibre optique,Non,Oui,Chèque postal,Non,96.69,3205.38,1,0,Non
+CLI0328,Femme,68,8,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Oui,106.8,855.97,5,0,Oui
+CLI0329,Homme,53,72,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,83.22,5982.09,1,0,Oui
+CLI0330,Femme,77,46,Deux ans,ADSL,Non,Non,Carte bancaire,Non,56.26,2570.8,3,1,Non
+CLI0331,Femme,41,58,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,99.53,5755.63,3,0,Oui
+CLI0332,Femme,76,71,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,69.54,4922.71,2,0,Oui
+CLI0333,Femme,54,28,Un an,ADSL,Non,Oui,Virement bancaire,Oui,56.41,1572.37,5,1,Non
+CLI0334,Femme,40,56,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,29.51,1660.49,5,3,Oui
+CLI0335,Homme,38,70,Un an,Fibre optique,Non,Oui,Virement bancaire,Non,92.89,6498.22,4,2,Non
+CLI0336,Homme,26,44,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,68.77,3030.16,2,2,Oui
+CLI0337,Homme,33,10,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,83.13,840.62,4,0,Non
+CLI0338,Homme,40,57,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,83.28,4772.56,1,0,Non
+CLI0339,Femme,18,44,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,110.71,4900.78,2,1,Non
+CLI0340,Homme,42,68,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Oui,77.97,5288.24,4,1,Non
+CLI0341,Femme,73,14,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,30.65,453.33,4,1,Oui
+CLI0342,Homme,29,26,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,65.02,1701.58,3,0,Oui
+CLI0343,Femme,33,65,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,91.91,5952.39,5,4,Non
+CLI0344,Homme,44,31,Un an,Fibre optique,Oui,Non,Carte bancaire,Oui,97.22,2995.96,2,1,Oui
+CLI0345,Homme,45,19,Un an,ADSL,Oui,Oui,Carte bancaire,Oui,83.04,1600.57,2,0,Non
+CLI0346,Femme,37,57,Un an,ADSL,Non,Non,Chèque électronique,Oui,45.52,2623.8,1,0,Non
+CLI0347,Homme,56,30,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,89.94,2678.03,3,0,Oui
+CLI0348,Femme,66,2,Deux ans,Aucun,Non,Non,Chèque électronique,Oui,33.91,96.96,2,0,Non
+CLI0349,Femme,62,42,Deux ans,Aucun,Non,Non,Carte bancaire,Oui,25.71,1068.59,5,1,Non
+CLI0350,Homme,51,14,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,64.74,879.32,1,1,Oui
+CLI0351,Femme,74,39,Un an,Fibre optique,Oui,Oui,Chèque postal,Oui,99.4,3893.32,4,2,Non
+CLI0352,Homme,43,53,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,102.1,5429.09,1,0,Oui
+CLI0353,Homme,23,15,Un an,ADSL,Oui,Non,Virement bancaire,Oui,52.07,771.16,4,1,Non
+CLI0354,Homme,28,19,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,59.69,1141.46,3,1,Oui
+CLI0355,Femme,49,64,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,81.58,5205.8,4,0,Non
+CLI0356,Homme,21,24,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,53.9,1274.29,3,3,Non
+CLI0357,Homme,79,59,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,100.75,5942.5,1,2,Oui
+CLI0358,Femme,39,68,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,108.61,7381.1,4,1,Non
+CLI0359,Femme,51,46,Deux ans,ADSL,Oui,Non,Carte bancaire,Oui,57.16,2606.45,5,0,Non
+CLI0360,Homme,65,27,Un an,Aucun,Non,Non,Carte bancaire,Non,29.56,768.8,3,1,Oui
+CLI0361,Femme,34,9,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,68.75,608.58,4,1,Oui
+CLI0362,Femme,76,61,Un an,ADSL,Oui,Non,Virement bancaire,Non,63.48,3892.39,4,2,Non
+CLI0363,Femme,53,69,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,57.51,3975.78,2,0,Non
+CLI0364,Femme,29,15,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,57.92,895.84,1,0,Oui
+CLI0365,Femme,29,15,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,99.7,1484.12,5,0,Oui
+CLI0366,Homme,70,67,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,82.26,5533.73,1,0,Oui
+CLI0367,Homme,24,67,Un an,ADSL,Oui,Non,Carte bancaire,Oui,59.46,4000.19,3,0,Non
+CLI0368,Femme,27,21,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,84.18,1754.78,5,0,Oui
+CLI0369,Homme,37,44,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,91.69,4057.84,1,0,Oui
+CLI0370,Femme,57,46,Mensuel,ADSL,Non,Non,Carte bancaire,Non,61.26,2843.14,5,0,Non
+CLI0371,Femme,37,60,Mensuel,Aucun,Non,Non,Chèque électronique,Non,30.49,1839.31,3,0,Non
+CLI0372,Femme,47,63,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,73.0,4575.42,5,1,Non
+CLI0373,Homme,68,39,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,86.11,3354.16,4,0,Non
+CLI0374,Femme,52,31,Mensuel,ADSL,Non,Non,Virement bancaire,Oui,51.51,1572.67,5,1,Non
+CLI0375,Femme,79,52,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,94.51,4937.76,1,0,Non
+CLI0376,Homme,66,19,Un an,ADSL,Oui,Non,Carte bancaire,Oui,70.64,1367.27,3,0,Non
+CLI0377,Femme,23,2,Un an,ADSL,Non,Non,Chèque électronique,Oui,61.42,114.39,1,1,Non
+CLI0378,Homme,33,56,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,94.81,5329.76,2,0,Oui
+CLI0379,Homme,26,2,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,105.2,234.01,1,0,Oui
+CLI0380,Femme,57,24,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,95.06,2294.17,5,0,Oui
+CLI0381,Femme,20,5,Un an,ADSL,Oui,Oui,Virement bancaire,Oui,83.38,391.59,5,5,Non
+CLI0382,Homme,33,61,Un an,ADSL,Non,Non,Carte bancaire,Non,51.87,3180.78,5,0,Non
+CLI0383,Femme,54,43,Mensuel,Aucun,Non,Non,Virement bancaire,Non,33.84,1470.09,2,0,Oui
+CLI0384,Femme,21,61,Un an,ADSL,Non,Oui,Virement bancaire,Oui,53.07,3254.3,3,0,Non
+CLI0385,Femme,35,33,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,96.14,3190.58,3,2,Non
+CLI0386,Femme,80,11,Deux ans,ADSL,Non,Non,Virement bancaire,Non,53.8,600.05,4,0,Oui
+CLI0387,Femme,21,34,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,97.25,3302.58,4,1,Oui
+CLI0388,Femme,42,41,Deux ans,ADSL,Oui,Non,Carte bancaire,Non,69.51,2835.94,5,3,Oui
+CLI0389,Femme,47,31,Un an,ADSL,Oui,Oui,Virement bancaire,Oui,74.36,2281.02,3,1,Oui
+CLI0390,Femme,40,29,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,97.08,2836.71,5,1,Oui
+CLI0391,Homme,75,15,Un an,Fibre optique,Oui,Non,Carte bancaire,Non,100.42,1491.74,4,1,Non
+CLI0392,Femme,67,8,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,107.13,837.75,1,0,Oui
+CLI0393,Homme,52,56,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,50.01,2797.31,1,1,Non
+CLI0394,Homme,59,1,Deux ans,ADSL,Oui,Non,Chèque postal,Oui,68.77,68.77,5,1,Non
+CLI0395,Homme,52,29,Mensuel,Aucun,Non,Non,Virement bancaire,Non,34.03,978.41,1,1,Oui
+CLI0396,Femme,21,12,Mensuel,Aucun,Non,Non,Chèque électronique,Non,22.65,244.16,3,1,Oui
+CLI0397,Homme,37,50,Deux ans,ADSL,Oui,Oui,Carte bancaire,Oui,64.15,3200.83,2,0,Non
+CLI0398,Femme,49,69,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,58.81,4059.28,1,0,Non
+CLI0399,Homme,65,30,Deux ans,Fibre optique,Oui,Non,Carte bancaire,Oui,80.12,2376.6,2,1,Oui
+CLI0400,Homme,47,22,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,93.47,2085.27,1,2,Non
+CLI0401,Femme,25,70,Mensuel,ADSL,Non,Non,Carte bancaire,Non,47.82,3342.31,1,0,Non
+CLI0402,Homme,46,32,Deux ans,Fibre optique,Oui,Non,Carte bancaire,Oui,77.47,2504.61,1,3,Non
+CLI0403,Femme,44,61,Un an,Fibre optique,Non,Oui,Carte bancaire,Oui,97.91,5979.23,5,1,Oui
+CLI0404,Femme,40,54,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,99.77,5360.76,5,1,Oui
+CLI0405,Homme,61,61,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,99.74,6081.33,4,0,Oui
+CLI0406,Homme,77,69,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,74.9,5151.9,5,1,Oui
+CLI0407,Homme,24,31,Un an,Aucun,Non,Non,Chèque électronique,Oui,27.27,868.8,1,0,Oui
+CLI0408,Femme,29,50,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,69.12,3453.93,2,0,Oui
+CLI0409,Femme,32,38,Un an,ADSL,Non,Non,Chèque électronique,Oui,55.44,2128.45,1,0,Oui
+CLI0410,Femme,71,60,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,74.56,4468.67,5,4,Oui
+CLI0411,Femme,64,65,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,61.26,3995.81,4,0,Non
+CLI0412,Homme,40,38,Mensuel,Aucun,Non,Non,Chèque électronique,Non,32.87,1263.9,2,1,Oui
+CLI0413,Femme,47,18,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,99.44,1777.72,1,0,Non
+CLI0414,Homme,68,11,Un an,Fibre optique,Non,Oui,Chèque postal,Non,90.3,985.23,1,0,Oui
+CLI0415,Homme,53,27,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,105.46,2842.8,2,0,Oui
+CLI0416,Femme,40,58,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,72.62,4230.49,4,1,Non
+CLI0417,Homme,30,59,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,80.49,4731.17,3,0,Non
+CLI0418,Homme,36,54,Deux ans,ADSL,Oui,Oui,Carte bancaire,Oui,66.9,3613.78,3,0,Non
+CLI0419,Femme,59,42,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,70.38,2972.14,3,0,Oui
+CLI0420,Femme,36,59,Deux ans,ADSL,Oui,Oui,Chèque électronique,Oui,68.32,4027.33,2,0,Non
+CLI0421,Homme,53,5,Un an,Aucun,Non,Non,Chèque électronique,Non,28.0,117.29,5,4,Oui
+CLI0422,Femme,67,19,Deux ans,Aucun,Non,Non,Chèque électronique,Non,24.35,489.29,3,0,Non
+CLI0423,Homme,69,57,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,102.57,5836.07,3,0,Non
+CLI0424,Homme,55,68,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,26.68,1824.53,1,1,Oui
+CLI0425,Femme,30,63,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,52.46,3292.06,4,0,Oui
+CLI0426,Femme,73,72,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,72.37,5234.43,2,2,Oui
+CLI0427,Homme,27,27,Mensuel,Aucun,Non,Non,Carte bancaire,Non,28.86,771.77,1,3,Oui
+CLI0428,Femme,44,23,Un an,ADSL,Non,Oui,Chèque électronique,Non,56.63,1322.57,3,1,Oui
+CLI0429,Femme,32,4,Un an,Fibre optique,Oui,Non,Carte bancaire,Oui,94.57,362.97,3,0,Oui
+CLI0430,Femme,49,9,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,103.93,940.27,1,0,Oui
+CLI0431,Femme,74,18,Mensuel,Fibre optique,Oui,Non,Chèque postal,Oui,94.71,1686.41,3,0,Non
+CLI0432,Homme,56,22,Mensuel,Aucun,Non,Non,Virement bancaire,Non,30.33,643.01,3,1,Non
+CLI0433,Homme,18,18,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,94.23,1702.95,2,0,Non
+CLI0434,Homme,44,59,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,116.22,6847.5,2,2,Non
+CLI0435,Homme,65,16,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,21.95,325.92,3,0,Non
+CLI0436,Homme,22,3,Un an,ADSL,Oui,Oui,Virement bancaire,Oui,65.2,210.87,4,0,Non
+CLI0437,Homme,55,26,Mensuel,Fibre optique,Oui,Non,Chèque postal,Non,95.12,2457.63,3,0,Oui
+CLI0438,Homme,70,2,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,74.37,147.22,1,3,Oui
+CLI0439,Homme,46,14,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,89.6,1266.68,3,0,Oui
+CLI0440,Homme,23,42,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,89.71,3749.15,2,1,Oui
+CLI0441,Femme,78,48,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,29.88,1409.34,4,0,Oui
+CLI0442,Femme,62,14,Un an,Aucun,Non,Non,Chèque électronique,Non,28.92,434.32,2,0,Oui
+CLI0443,Femme,64,64,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,64.89,4152.03,3,0,Oui
+CLI0444,Femme,24,16,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,51.79,834.92,1,0,Oui
+CLI0445,Femme,57,13,Un an,ADSL,Oui,Oui,Carte bancaire,Non,68.66,895.38,4,0,Non
+CLI0446,Homme,45,16,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,92.46,1455.92,2,0,Oui
+CLI0447,Femme,48,72,Deux ans,ADSL,Oui,Oui,Chèque postal,Non,61.74,4436.21,3,0,Non
+CLI0448,Homme,66,44,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,84.96,3749.52,2,0,Oui
+CLI0449,Homme,39,22,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,89.25,1952.49,3,0,Oui
+CLI0450,Femme,54,13,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Non,88.95,1156.17,2,1,Non
+CLI0451,Homme,71,69,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,96.18,6634.94,5,0,Oui
+CLI0452,Homme,59,39,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,98.98,3883.07,5,1,Non
+CLI0453,Homme,54,64,Mensuel,Aucun,Non,Non,Virement bancaire,Non,27.99,1798.23,3,3,Non
+CLI0454,Femme,77,8,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,116.62,953.72,4,0,Oui
+CLI0455,Femme,59,21,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,73.78,1521.6,3,0,Oui
+CLI0456,Homme,19,34,Un an,Fibre optique,Non,Non,Chèque électronique,Non,96.9,3283.43,1,0,Oui
+CLI0457,Homme,75,53,Deux ans,ADSL,Non,Oui,Virement bancaire,Oui,71.22,3775.98,2,0,Non
+CLI0458,Femme,49,12,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,82.29,970.33,2,3,Oui
+CLI0459,Femme,34,8,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,105.65,858.14,3,3,Non
+CLI0460,Homme,59,5,Deux ans,ADSL,Non,Non,Virement bancaire,Oui,51.19,283.46,3,1,Non
+CLI0461,Homme,52,31,Deux ans,Fibre optique,Non,Oui,Chèque postal,Non,101.33,3123.85,3,0,Non
+CLI0462,Femme,58,41,Deux ans,ADSL,Oui,Oui,Virement bancaire,Non,78.82,3256.73,4,1,Non
+CLI0463,Homme,62,34,Mensuel,Fibre optique,Non,Non,Virement bancaire,Non,89.24,3015.18,1,2,Oui
+CLI0464,Homme,18,52,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,101.02,5251.74,5,1,Non
+CLI0465,Femme,29,42,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,116.61,4922.03,1,4,Non
+CLI0466,Homme,34,22,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,67.42,1508.44,5,0,Non
+CLI0467,Femme,25,29,Un an,Fibre optique,Non,Non,Chèque électronique,Non,95.69,2781.01,4,0,Non
+CLI0468,Femme,64,25,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,103.81,2573.24,2,0,Oui
+CLI0469,Femme,61,28,Un an,ADSL,Non,Oui,Chèque électronique,Oui,61.05,1739.2,1,0,Non
+CLI0470,Homme,18,33,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,75.1,2477.87,5,0,Oui
+CLI0471,Femme,26,12,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,83.41,987.9,4,3,Non
+CLI0472,Femme,51,41,Mensuel,Fibre optique,Non,Oui,Chèque postal,Non,77.92,3192.93,1,0,Oui
+CLI0473,Femme,45,15,Deux ans,Aucun,Non,Non,Chèque électronique,Non,27.39,431.6,5,0,Non
+CLI0474,Homme,40,12,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,70.12,857.45,5,5,Oui
+CLI0475,Homme,33,64,Un an,Aucun,Non,Non,Chèque électronique,Oui,33.94,2148.52,4,0,Non
+CLI0476,Homme,23,59,Deux ans,ADSL,Oui,Non,Carte bancaire,Oui,69.78,4106.51,3,4,Non
+CLI0477,Homme,31,7,Deux ans,Fibre optique,Non,Non,Carte bancaire,Non,75.34,555.28,1,0,Non
+CLI0478,Homme,19,27,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,64.29,1724.44,3,0,Non
+CLI0479,Homme,40,13,Deux ans,ADSL,Oui,Non,Carte bancaire,Non,70.52,912.81,1,2,Oui
+CLI0480,Homme,50,44,Deux ans,ADSL,Non,Non,Chèque postal,Oui,46.58,2067.61,3,0,Non
+CLI0481,Homme,61,39,Deux ans,ADSL,Oui,Oui,Chèque électronique,Oui,68.79,2686.92,5,0,Non
+CLI0482,Femme,55,11,Un an,Fibre optique,Non,Oui,Virement bancaire,Non,103.39,1142.52,1,0,Oui
+CLI0483,Femme,57,34,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,34.73,1166.38,2,0,Oui
+CLI0484,Femme,52,3,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,116.46,360.8,3,1,Oui
+CLI0485,Femme,23,17,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,74.35,1248.46,2,0,Oui
+CLI0486,Homme,23,39,Un an,Fibre optique,Oui,Oui,Chèque postal,Non,111.3,4344.87,4,0,Non
+CLI0487,Homme,39,2,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,73.14,157.0,1,0,Non
+CLI0488,Femme,32,8,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,106.34,846.89,4,0,Oui
+CLI0489,Homme,48,45,Mensuel,ADSL,Non,Non,Chèque postal,Non,59.46,2669.12,2,3,Oui
+CLI0490,Femme,68,61,Un an,ADSL,Non,Oui,Virement bancaire,Non,56.57,3468.38,2,0,Non
+CLI0491,Femme,37,31,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,102.06,3137.68,2,2,Oui
+CLI0492,Homme,25,72,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,111.17,7977.27,2,2,Non
+CLI0493,Femme,79,15,Deux ans,ADSL,Non,Non,Chèque électronique,Oui,57.6,886.25,5,0,Non
+CLI0494,Homme,64,38,Un an,ADSL,Oui,Non,Chèque électronique,Non,53.87,2075.24,3,2,Non
+CLI0495,Homme,33,61,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,74.62,4569.93,2,0,Oui
+CLI0496,Femme,75,59,Deux ans,ADSL,Non,Non,Carte bancaire,Oui,46.7,2744.19,5,4,Non
+CLI0497,Homme,45,8,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,99.3,782.66,4,0,Non
+CLI0498,Femme,18,36,Deux ans,ADSL,Oui,Oui,Carte bancaire,Non,74.84,2682.33,3,3,Oui
+CLI0499,Femme,42,17,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,78.4,1352.73,2,0,Oui
+CLI0500,Femme,50,15,Un an,ADSL,Oui,Oui,Chèque électronique,Oui,79.79,1215.17,4,0,Non
+CLI0501,Homme,40,39,Mensuel,ADSL,Non,Non,Virement bancaire,Oui,56.65,2228.72,1,0,Oui
+CLI0502,Homme,27,55,Deux ans,Fibre optique,Oui,Non,Carte bancaire,Non,94.91,5221.19,1,0,Oui
+CLI0503,Femme,55,64,Un an,Aucun,Non,Non,Virement bancaire,Non,22.17,1396.51,4,2,Non
+CLI0504,Homme,79,66,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Non,97.11,6381.68,1,1,Oui
+CLI0505,Femme,37,48,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,60.05,2881.73,3,3,Oui
+CLI0506,Femme,22,6,Mensuel,ADSL,Non,Non,Virement bancaire,Non,47.77,294.81,5,0,Non
+CLI0507,Femme,27,42,Mensuel,ADSL,Non,Oui,Chèque postal,Non,66.51,2780.06,5,0,Oui
+CLI0508,Homme,63,4,Un an,ADSL,Non,Oui,Chèque électronique,Oui,66.14,292.0,2,4,Oui
+CLI0509,Femme,50,3,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,23.68,83.38,3,2,Non
+CLI0510,Femme,23,69,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,103.01,7093.12,2,0,Oui
+CLI0511,Homme,52,22,Mensuel,Fibre optique,Non,Oui,Chèque postal,Oui,84.95,1842.41,1,1,Oui
+CLI0512,Femme,27,53,Deux ans,Fibre optique,Non,Non,Chèque électronique,Oui,84.79,4509.01,5,1,Non
+CLI0513,Homme,35,8,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,72.77,591.25,3,1,Oui
+CLI0514,Femme,46,11,Deux ans,ADSL,Non,Oui,Carte bancaire,Oui,64.86,710.56,2,1,Oui
+CLI0515,Femme,79,38,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,101.76,3887.32,4,5,Oui
+CLI0516,Homme,65,69,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,106.95,7406.27,4,0,Non
+CLI0517,Femme,35,32,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,75.2,2386.81,1,1,Oui
+CLI0518,Femme,66,51,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,72.05,3666.03,1,0,Oui
+CLI0519,Homme,25,60,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,95.53,5744.87,2,0,Oui
+CLI0520,Femme,79,47,Mensuel,ADSL,Non,Non,Chèque électronique,Non,56.38,2649.5,1,2,Oui
+CLI0521,Homme,22,17,Un an,Fibre optique,Non,Non,Virement bancaire,Non,70.69,1229.92,2,2,Oui
+CLI0522,Femme,61,72,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Non,88.06,6341.42,4,2,Non
+CLI0523,Homme,74,29,Mensuel,Aucun,Non,Non,Carte bancaire,Non,25.02,748.39,1,0,Non
+CLI0524,Homme,80,55,Deux ans,Aucun,Non,Non,Chèque électronique,Non,29.38,1587.57,3,0,Non
+CLI0525,Homme,55,43,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Non,108.74,4682.99,5,2,Non
+CLI0526,Femme,55,16,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,108.73,1735.59,2,0,Oui
+CLI0527,Homme,53,7,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,105.01,742.22,4,0,Oui
+CLI0528,Homme,47,67,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,101.12,6782.29,5,0,Oui
+CLI0529,Homme,69,6,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,99.3,584.32,5,3,Oui
+CLI0530,Femme,80,2,Mensuel,ADSL,Oui,Oui,Virement bancaire,Oui,80.42,134.94,4,0,Oui
+CLI0531,Femme,62,60,Un an,Fibre optique,Non,Non,Carte bancaire,Non,83.63,5035.15,3,0,Oui
+CLI0532,Homme,76,1,Un an,ADSL,Oui,Oui,Carte bancaire,Non,68.15,68.15,4,0,Oui
+CLI0533,Homme,27,38,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,56.21,2116.44,2,0,Non
+CLI0534,Homme,29,26,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,57.4,1484.58,1,0,Oui
+CLI0535,Homme,78,68,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,33.86,2320.17,1,0,Oui
+CLI0536,Femme,62,48,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,74.46,3558.91,5,0,Non
+CLI0537,Femme,73,17,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,31.86,548.51,1,2,Oui
+CLI0538,Femme,66,66,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,66.09,4379.38,4,0,Non
+CLI0539,Homme,32,26,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,89.87,2337.75,3,0,Oui
+CLI0540,Homme,47,66,Un an,Fibre optique,Oui,Oui,Virement bancaire,Non,91.54,6033.19,3,0,Oui
+CLI0541,Homme,68,36,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Oui,113.65,4072.84,3,0,Non
+CLI0542,Homme,72,70,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Non,97.82,6856.65,4,2,Non
+CLI0543,Homme,73,51,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,65.64,3374.16,4,0,Non
+CLI0544,Femme,46,72,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,92.37,6644.84,3,0,Non
+CLI0545,Femme,38,3,Un an,Fibre optique,Oui,Non,Chèque postal,Non,90.46,252.68,4,0,Oui
+CLI0546,Femme,58,39,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,83.83,3256.4,1,0,Oui
+CLI0547,Homme,47,8,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,89.83,745.95,2,1,Oui
+CLI0548,Homme,73,27,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,67.55,1805.95,5,0,Non
+CLI0549,Femme,22,52,Un an,Fibre optique,Oui,Oui,Carte bancaire,Non,93.69,4862.69,5,0,Non
+CLI0550,Femme,43,23,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,96.26,2237.11,5,0,Oui
+CLI0551,Femme,60,9,Un an,ADSL,Oui,Oui,Chèque postal,Oui,64.75,579.81,3,0,Non
+CLI0552,Homme,47,4,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,59.98,218.11,4,0,Non
+CLI0553,Femme,49,60,Mensuel,ADSL,Oui,Non,Chèque électronique,Non,51.06,3051.25,2,0,Oui
+CLI0554,Femme,28,10,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,112.44,1132.86,5,0,Non
+CLI0555,Homme,42,40,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,59.31,2343.27,3,3,Non
+CLI0556,Homme,32,13,Un an,ADSL,Oui,Oui,Carte bancaire,Oui,78.45,1013.55,3,0,Non
+CLI0557,Homme,31,14,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,111.59,1536.3,2,0,Oui
+CLI0558,Femme,67,64,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Oui,99.87,6403.46,3,4,Non
+CLI0559,Homme,39,23,Un an,Aucun,Non,Non,Chèque électronique,Non,29.13,675.09,1,0,Oui
+CLI0560,Homme,50,2,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,56.24,94.6,5,0,Oui
+CLI0561,Homme,33,57,Un an,Fibre optique,Oui,Non,Virement bancaire,Non,87.0,4949.56,3,2,Oui
+CLI0562,Homme,76,32,Deux ans,ADSL,Oui,Non,Carte bancaire,Oui,54.73,1778.58,4,1,Oui
+CLI0563,Homme,78,27,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,89.4,2398.5,4,1,Oui
+CLI0564,Homme,37,37,Un an,Aucun,Non,Non,Chèque électronique,Non,25.39,932.09,1,4,Oui
+CLI0565,Femme,50,56,Un an,ADSL,Non,Oui,Chèque électronique,Oui,58.14,3241.28,3,1,Non
+CLI0566,Femme,36,49,Un an,ADSL,Oui,Non,Chèque électronique,Oui,65.09,3188.9,1,0,Non
+CLI0567,Femme,80,48,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Oui,85.21,4117.51,4,3,Non
+CLI0568,Femme,50,63,Un an,Fibre optique,Oui,Oui,Carte bancaire,Oui,115.12,7224.26,2,0,Non
+CLI0569,Homme,34,59,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Oui,90.44,5348.32,1,0,Non
+CLI0570,Homme,51,25,Deux ans,Fibre optique,Oui,Non,Carte bancaire,Non,93.48,2350.66,5,0,Oui
+CLI0571,Femme,70,19,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,72.1,1381.68,4,0,Oui
+CLI0572,Femme,64,56,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,82.78,4650.67,4,1,Non
+CLI0573,Homme,34,53,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,25.67,1347.12,1,0,Oui
+CLI0574,Homme,48,63,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,101.38,6388.14,1,0,Non
+CLI0575,Femme,77,63,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,103.0,6480.36,2,4,Oui
+CLI0576,Homme,18,59,Deux ans,Fibre optique,Non,Non,Chèque électronique,Oui,90.98,5386.72,5,0,Non
+CLI0577,Femme,50,53,Un an,Fibre optique,Non,Non,Chèque électronique,Non,92.07,4890.39,1,4,Oui
+CLI0578,Femme,43,11,Mensuel,Aucun,Non,Non,Chèque postal,Non,24.41,250.21,1,1,Oui
+CLI0579,Homme,26,64,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,93.25,5952.6,4,4,Oui
+CLI0580,Homme,24,56,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Non,101.64,5702.08,2,1,Non
+CLI0581,Femme,23,43,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,30.76,1336.84,3,0,Non
+CLI0582,Femme,69,30,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,88.68,2674.62,1,1,Oui
+CLI0583,Homme,72,50,Deux ans,Fibre optique,Oui,Non,Virement bancaire,Oui,94.37,4697.18,1,0,Non
+CLI0584,Homme,49,59,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,85.07,5030.45,5,0,Oui
+CLI0585,Femme,58,28,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,57.11,1579.82,2,1,Oui
+CLI0586,Femme,37,21,Deux ans,ADSL,Oui,Non,Chèque postal,Non,66.51,1422.09,4,0,Non
+CLI0587,Femme,24,17,Mensuel,ADSL,Non,Oui,Chèque postal,Non,64.64,1097.83,4,1,Non
+CLI0588,Homme,31,26,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,93.7,2461.76,4,4,Oui
+CLI0589,Femme,29,7,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,68.05,503.62,2,0,Oui
+CLI0590,Femme,67,12,Un an,Aucun,Non,Non,Virement bancaire,Non,21.8,236.56,4,0,Non
+CLI0591,Homme,19,62,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,52.43,3275.19,3,1,Non
+CLI0592,Homme,43,3,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,69.22,213.61,2,4,Oui
+CLI0593,Femme,69,41,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,101.54,4158.52,1,4,Non
+CLI0594,Homme,33,39,Mensuel,Aucun,Non,Non,Chèque postal,Non,28.66,1129.45,5,0,Non
+CLI0595,Femme,56,69,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,55.24,3814.68,3,2,Non
+CLI0596,Femme,26,55,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Oui,104.21,5713.78,3,1,Non
+CLI0597,Femme,58,25,Un an,ADSL,Non,Oui,Chèque électronique,Oui,58.85,1477.47,3,5,Oui
+CLI0598,Homme,52,15,Un an,Fibre optique,Oui,Oui,Chèque postal,Non,89.48,1370.33,2,2,Oui
+CLI0599,Homme,68,16,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,65.28,1068.27,5,2,Oui
+CLI0600,Femme,29,45,Deux ans,ADSL,Non,Oui,Virement bancaire,Non,59.99,2712.34,4,1,Non
+CLI0601,Homme,42,35,Mensuel,ADSL,Non,Non,Chèque électronique,Non,64.72,2283.11,4,0,Oui
+CLI0602,Femme,78,55,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,56.89,3103.72,3,0,Non
+CLI0603,Homme,28,8,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,74.09,592.59,5,3,Oui
+CLI0604,Homme,43,2,Un an,Aucun,Non,Non,Virement bancaire,Non,23.66,61.66,5,1,Non
+CLI0605,Homme,56,58,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,66.94,3877.88,3,2,Non
+CLI0606,Femme,80,15,Mensuel,ADSL,Non,Non,Virement bancaire,Non,50.3,724.63,3,0,Non
+CLI0607,Femme,31,40,Deux ans,Aucun,Non,Non,Carte bancaire,Oui,32.73,1282.65,4,3,Oui
+CLI0608,Femme,39,39,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,81.14,3143.68,4,0,Oui
+CLI0609,Femme,18,20,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,92.21,1823.91,5,2,Oui
+CLI0610,Femme,18,46,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,62.95,2905.61,3,3,Non
+CLI0611,Femme,49,71,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,70.62,4991.91,5,1,Non
+CLI0612,Homme,26,20,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,90.06,1800.36,5,1,Non
+CLI0613,Homme,57,20,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,111.77,2235.54,4,0,Oui
+CLI0614,Homme,32,16,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,81.41,1304.06,1,2,Oui
+CLI0615,Homme,32,44,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,109.34,4791.87,3,4,Oui
+CLI0616,Femme,31,37,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,25.45,929.91,3,4,Oui
+CLI0617,Homme,61,71,Un an,Fibre optique,Oui,Non,Virement bancaire,Non,83.99,5986.52,2,1,Oui
+CLI0618,Homme,20,25,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,86.11,2125.38,4,5,Oui
+CLI0619,Femme,75,72,Deux ans,Aucun,Non,Non,Carte bancaire,Oui,26.29,1918.76,4,0,Non
+CLI0620,Homme,28,36,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,100.09,3599.5,4,0,Non
+CLI0621,Femme,43,35,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,92.88,3234.02,5,1,Non
+CLI0622,Homme,28,29,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,95.33,2747.17,3,3,Oui
+CLI0623,Femme,58,48,Mensuel,Aucun,Non,Non,Virement bancaire,Non,29.17,1389.64,2,0,Oui
+CLI0624,Homme,70,46,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,33.02,1545.26,5,1,Non
+CLI0625,Femme,78,33,Deux ans,ADSL,Non,Non,Chèque électronique,Non,61.15,2033.12,2,1,Oui
+CLI0626,Homme,64,56,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,32.94,1825.97,4,0,Oui
+CLI0627,Homme,59,37,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,100.51,3694.88,2,0,Oui
+CLI0628,Homme,56,13,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,72.51,921.19,2,0,Oui
+CLI0629,Homme,68,2,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Oui,95.0,169.79,2,0,Oui
+CLI0630,Homme,33,8,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,112.47,871.2,1,1,Oui
+CLI0631,Homme,40,37,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,21.65,777.15,4,0,Non
+CLI0632,Femme,22,43,Mensuel,Aucun,Non,Non,Chèque postal,Oui,26.43,1126.58,5,0,Oui
+CLI0633,Femme,27,39,Un an,Fibre optique,Non,Oui,Carte bancaire,Non,96.87,3748.06,3,2,Non
+CLI0634,Homme,67,19,Mensuel,Fibre optique,Non,Non,Carte bancaire,Oui,98.79,1863.72,1,1,Oui
+CLI0635,Homme,29,50,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,64.8,3235.12,2,2,Oui
+CLI0636,Femme,52,69,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,82.04,5631.79,1,0,Non
+CLI0637,Homme,76,15,Mensuel,Fibre optique,Non,Non,Virement bancaire,Non,95.6,1462.31,4,0,Non
+CLI0638,Homme,31,29,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,91.04,2649.92,4,0,Oui
+CLI0639,Homme,19,19,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,94.54,1794.47,2,0,Oui
+CLI0640,Femme,68,2,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Oui,94.35,185.96,1,0,Oui
+CLI0641,Femme,76,65,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,87.4,5674.54,2,1,Oui
+CLI0642,Homme,70,60,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,61.94,3737.2,4,0,Oui
+CLI0643,Femme,28,70,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,81.54,5680.49,1,0,Non
+CLI0644,Femme,20,7,Mensuel,Aucun,Non,Non,Chèque électronique,Non,27.5,181.37,3,4,Oui
+CLI0645,Femme,80,17,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,90.57,1560.81,1,1,Oui
+CLI0646,Homme,61,60,Mensuel,ADSL,Non,Oui,Chèque électronique,Oui,66.98,4025.32,2,5,Oui
+CLI0647,Femme,46,17,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,93.84,1574.42,2,0,Oui
+CLI0648,Femme,24,2,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,24.71,75.46,4,0,Oui
+CLI0649,Femme,54,47,Mensuel,Fibre optique,Non,Oui,Chèque postal,Non,80.08,3767.88,4,1,Oui
+CLI0650,Femme,43,53,Deux ans,Aucun,Non,Non,Chèque électronique,Non,34.28,1809.26,5,2,Non
+CLI0651,Femme,34,6,Un an,ADSL,Non,Oui,Virement bancaire,Oui,56.92,335.48,2,2,Oui
+CLI0652,Femme,73,60,Un an,Fibre optique,Oui,Oui,Virement bancaire,Oui,92.75,5560.99,1,0,Oui
+CLI0653,Homme,38,44,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,63.88,2799.93,5,0,Oui
+CLI0654,Femme,21,47,Un an,Aucun,Non,Non,Chèque électronique,Oui,30.26,1408.41,1,4,Oui
+CLI0655,Homme,27,9,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,82.88,741.63,3,0,Non
+CLI0656,Femme,28,26,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,97.87,2548.27,3,3,Non
+CLI0657,Homme,22,19,Mensuel,Aucun,Non,Non,Chèque postal,Non,26.88,489.57,1,0,Non
+CLI0658,Homme,68,53,Mensuel,ADSL,Non,Non,Virement bancaire,Non,49.37,2645.35,5,0,Non
+CLI0659,Homme,56,49,Mensuel,Fibre optique,Oui,Non,Chèque postal,Non,105.41,5187.16,3,0,Non
+CLI0660,Femme,44,53,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,57.7,3060.67,4,0,Oui
+CLI0661,Femme,58,37,Un an,Aucun,Non,Non,Chèque postal,Oui,21.56,806.7,1,2,Oui
+CLI0662,Femme,24,64,Un an,ADSL,Oui,Non,Carte bancaire,Oui,59.68,3822.62,3,2,Oui
+CLI0663,Femme,78,16,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,69.2,1093.26,1,3,Oui
+CLI0664,Femme,71,54,Un an,Fibre optique,Non,Oui,Chèque électronique,Non,95.34,5175.91,5,2,Non
+CLI0665,Homme,53,51,Mensuel,ADSL,Non,Non,Carte bancaire,Oui,48.47,2496.22,4,4,Oui
+CLI0666,Femme,32,13,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,90.5,1147.19,5,0,Non
+CLI0667,Homme,19,70,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Non,96.13,6710.73,3,0,Non
+CLI0668,Femme,67,34,Un an,Fibre optique,Non,Non,Carte bancaire,Oui,87.88,2964.34,1,0,Oui
+CLI0669,Homme,23,10,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,104.31,1054.34,4,0,Oui
+CLI0670,Femme,58,58,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Oui,117.5,6817.79,1,4,Oui
+CLI0671,Femme,77,16,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,82.44,1330.54,1,3,Oui
+CLI0672,Femme,48,26,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Non,88.35,2277.48,4,1,Non
+CLI0673,Femme,79,51,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,63.7,3267.65,4,3,Non
+CLI0674,Femme,45,26,Un an,Fibre optique,Non,Oui,Chèque électronique,Oui,91.52,2402.16,5,0,Non
+CLI0675,Femme,43,4,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,73.68,265.37,3,0,Oui
+CLI0676,Femme,54,42,Deux ans,ADSL,Oui,Non,Carte bancaire,Oui,68.34,2891.87,5,0,Non
+CLI0677,Femme,61,56,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,92.79,5201.71,4,0,Oui
+CLI0678,Homme,36,3,Un an,Aucun,Non,Non,Chèque postal,Non,34.5,75.72,3,0,Non
+CLI0679,Homme,39,3,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,93.24,279.35,4,0,Oui
+CLI0680,Femme,62,59,Mensuel,ADSL,Non,Non,Chèque postal,Oui,61.51,3607.41,1,0,Non
+CLI0681,Femme,32,22,Mensuel,ADSL,Non,Non,Carte bancaire,Oui,60.7,1312.05,1,0,Non
+CLI0682,Homme,34,43,Un an,ADSL,Oui,Non,Chèque postal,Non,72.51,3141.2,1,0,Non
+CLI0683,Femme,58,58,Un an,ADSL,Oui,Oui,Carte bancaire,Non,70.66,4110.96,3,2,Non
+CLI0684,Homme,60,27,Un an,Fibre optique,Oui,Oui,Virement bancaire,Non,88.73,2397.37,4,0,Non
+CLI0685,Femme,63,59,Un an,ADSL,Oui,Oui,Chèque postal,Non,72.05,4237.62,4,2,Oui
+CLI0686,Femme,78,14,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,22.81,291.06,1,3,Oui
+CLI0687,Femme,40,34,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,66.76,2262.79,5,0,Non
+CLI0688,Homme,36,25,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,60.01,1486.22,2,4,Oui
+CLI0689,Homme,35,29,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,75.16,2185.42,4,0,Non
+CLI0690,Homme,29,65,Deux ans,ADSL,Non,Non,Virement bancaire,Oui,48.33,3131.38,3,1,Non
+CLI0691,Homme,60,61,Mensuel,Fibre optique,Non,Non,Chèque électronique,Oui,84.21,5106.87,5,0,Non
+CLI0692,Femme,25,6,Deux ans,ADSL,Non,Non,Carte bancaire,Oui,47.0,300.23,2,2,Oui
+CLI0693,Femme,65,45,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,118.16,5341.33,3,1,Non
+CLI0694,Homme,35,67,Un an,Fibre optique,Non,Non,Virement bancaire,Oui,77.33,5195.57,3,0,Non
+CLI0695,Femme,31,12,Mensuel,Aucun,Non,Non,Carte bancaire,Non,26.74,348.38,5,3,Oui
+CLI0696,Femme,76,45,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Oui,89.58,4027.11,5,1,Non
+CLI0697,Femme,36,15,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,56.66,823.78,5,1,Non
+CLI0698,Femme,20,28,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,70.0,1969.92,1,0,Non
+CLI0699,Homme,79,12,Un an,Fibre optique,Non,Oui,Chèque postal,Non,104.73,1267.47,2,0,Oui
+CLI0700,Femme,79,13,Deux ans,Aucun,Non,Non,Carte bancaire,Oui,33.14,449.08,5,0,Non
+CLI0701,Homme,34,18,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Non,109.98,1981.23,5,0,Non
+CLI0702,Femme,47,46,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,102.27,4705.15,1,2,Oui
+CLI0703,Femme,21,51,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,71.15,3618.66,1,0,Oui
+CLI0704,Femme,54,62,Un an,Aucun,Non,Non,Chèque électronique,Oui,28.43,1790.7,2,1,Oui
+CLI0705,Homme,37,40,Un an,Aucun,Non,Non,Virement bancaire,Oui,22.3,914.79,1,0,Oui
+CLI0706,Homme,31,14,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,81.12,1154.98,4,5,Non
+CLI0707,Homme,45,19,Un an,Fibre optique,Non,Non,Chèque électronique,Oui,78.68,1470.92,4,0,Non
+CLI0708,Femme,60,36,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,68.48,2473.99,3,0,Non
+CLI0709,Femme,20,46,Deux ans,ADSL,Non,Oui,Chèque postal,Non,62.51,2887.83,5,2,Non
+CLI0710,Homme,29,20,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,57.24,1143.82,3,3,Non
+CLI0711,Homme,54,65,Un an,ADSL,Oui,Oui,Chèque postal,Non,69.35,4487.3,5,1,Non
+CLI0712,Homme,49,61,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,81.52,5001.12,2,1,Non
+CLI0713,Homme,57,33,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,66.62,2227.79,2,0,Oui
+CLI0714,Homme,30,33,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,67.26,2201.79,1,1,Non
+CLI0715,Homme,41,53,Un an,Aucun,Non,Non,Chèque électronique,Non,28.56,1512.1,2,2,Oui
+CLI0716,Homme,69,9,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,58.82,519.24,1,0,Oui
+CLI0717,Femme,77,33,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,92.8,3035.8,5,3,Oui
+CLI0718,Homme,55,61,Deux ans,Aucun,Non,Non,Virement bancaire,Oui,23.01,1426.89,3,0,Oui
+CLI0719,Homme,53,43,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,73.19,3153.92,3,5,Oui
+CLI0720,Femme,78,17,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,112.45,1884.97,4,0,Non
+CLI0721,Homme,52,49,Un an,ADSL,Non,Oui,Virement bancaire,Oui,61.8,3005.28,4,1,Non
+CLI0722,Femme,40,25,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,26.2,670.15,5,0,Non
+CLI0723,Homme,69,2,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Non,111.29,200.36,1,0,Oui
+CLI0724,Homme,60,10,Mensuel,Aucun,Non,Non,Chèque électronique,Non,24.54,237.42,2,0,Oui
+CLI0725,Homme,51,35,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,82.78,2885.6,3,0,Non
+CLI0726,Homme,41,19,Mensuel,Fibre optique,Oui,Non,Chèque postal,Oui,87.23,1645.39,4,2,Non
+CLI0727,Homme,35,50,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,22.77,1134.37,2,0,Oui
+CLI0728,Femme,20,70,Un an,Aucun,Non,Non,Chèque postal,Non,28.86,2035.64,3,2,Non
+CLI0729,Femme,73,55,Un an,Aucun,Non,Non,Virement bancaire,Oui,30.82,1705.78,5,0,Non
+CLI0730,Femme,45,67,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,24.21,1633.03,2,3,Oui
+CLI0731,Homme,67,70,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,71.62,5034.26,5,0,Non
+CLI0732,Homme,46,2,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,34.08,54.75,4,0,Oui
+CLI0733,Femme,79,9,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,93.89,821.88,2,0,Oui
+CLI0734,Femme,55,41,Mensuel,ADSL,Oui,Non,Chèque électronique,Non,69.62,2867.52,1,1,Oui
+CLI0735,Femme,24,10,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,109.56,1112.89,1,1,Oui
+CLI0736,Femme,75,48,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,33.95,1654.31,3,0,Oui
+CLI0737,Homme,69,41,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,63.4,2629.27,4,2,Oui
+CLI0738,Homme,79,29,Un an,Aucun,Non,Non,Carte bancaire,Non,32.71,950.26,5,1,Oui
+CLI0739,Femme,60,68,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Non,113.14,7721.86,2,2,Oui
+CLI0740,Femme,64,53,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,87.69,4676.77,4,2,Non
+CLI0741,Homme,67,53,Un an,ADSL,Non,Non,Chèque électronique,Oui,55.1,2899.2,1,0,Oui
+CLI0742,Homme,75,24,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Non,88.87,2162.28,1,0,Oui
+CLI0743,Femme,75,55,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,73.23,4040.98,5,1,Oui
+CLI0744,Femme,78,58,Deux ans,ADSL,Non,Oui,Virement bancaire,Oui,67.53,3917.3,2,1,Oui
+CLI0745,Homme,55,48,Un an,ADSL,Oui,Oui,Virement bancaire,Non,68.83,3305.35,1,0,Non
+CLI0746,Femme,36,42,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,65.81,2739.99,4,1,Oui
+CLI0747,Homme,36,36,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,80.68,2924.81,2,1,Oui
+CLI0748,Homme,56,6,Deux ans,ADSL,Non,Oui,Virement bancaire,Oui,72.83,450.91,3,0,Non
+CLI0749,Femme,36,15,Un an,Aucun,Non,Non,Chèque électronique,Non,32.97,524.13,4,0,Non
+CLI0750,Homme,79,46,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,74.93,3458.06,3,0,Non
+CLI0751,Homme,45,13,Deux ans,ADSL,Oui,Non,Virement bancaire,Oui,67.83,865.0,1,0,Oui
+CLI0752,Femme,27,63,Deux ans,ADSL,Oui,Oui,Virement bancaire,Oui,74.06,4638.11,1,0,Non
+CLI0753,Femme,58,31,Un an,ADSL,Non,Oui,Chèque électronique,Oui,64.21,1996.38,3,1,Non
+CLI0754,Femme,24,29,Mensuel,Aucun,Non,Non,Virement bancaire,Non,24.88,731.27,4,4,Oui
+CLI0755,Femme,79,41,Un an,Fibre optique,Oui,Oui,Virement bancaire,Non,92.63,3821.22,5,0,Non
+CLI0756,Homme,53,42,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,91.34,3833.14,3,0,Oui
+CLI0757,Homme,52,27,Un an,Fibre optique,Non,Non,Chèque électronique,Oui,72.71,1975.45,1,2,Non
+CLI0758,Homme,59,7,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,111.15,792.05,3,2,Non
+CLI0759,Homme,72,3,Un an,ADSL,Oui,Non,Chèque électronique,Non,67.45,174.38,3,0,Non
+CLI0760,Femme,59,52,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,76.9,4012.95,1,0,Non
+CLI0761,Homme,71,40,Un an,Fibre optique,Non,Oui,Carte bancaire,Oui,94.92,3792.57,3,4,Oui
+CLI0762,Femme,53,36,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,27.46,982.18,4,0,Oui
+CLI0763,Homme,46,29,Un an,Fibre optique,Non,Oui,Carte bancaire,Oui,106.12,3053.2,3,0,Oui
+CLI0764,Femme,55,32,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Oui,84.74,2701.95,1,2,Oui
+CLI0765,Femme,62,53,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Non,93.68,4968.33,3,4,Non
+CLI0766,Homme,76,14,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,113.09,1582.97,2,0,Oui
+CLI0767,Femme,26,71,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,105.63,7479.69,5,0,Oui
+CLI0768,Homme,69,48,Mensuel,Fibre optique,Oui,Non,Chèque postal,Oui,99.95,4792.58,2,1,Oui
+CLI0769,Homme,80,1,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,82.15,85.7,5,0,Oui
+CLI0770,Homme,77,25,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,64.25,1611.81,3,1,Oui
+CLI0771,Homme,35,23,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,94.71,2196.77,5,2,Non
+CLI0772,Femme,31,22,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Oui,75.55,1690.29,2,0,Oui
+CLI0773,Femme,45,61,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,74.54,4553.26,4,0,Oui
+CLI0774,Homme,78,36,Un an,ADSL,Non,Oui,Virement bancaire,Oui,64.29,2336.41,5,3,Non
+CLI0775,Femme,64,55,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,52.22,2853.79,1,0,Oui
+CLI0776,Femme,24,48,Deux ans,ADSL,Oui,Oui,Carte bancaire,Non,75.06,3631.15,4,0,Non
+CLI0777,Femme,56,59,Mensuel,ADSL,Non,Non,Virement bancaire,Oui,62.89,3689.7,3,0,Non
+CLI0778,Homme,23,54,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Non,99.45,5380.62,2,1,Non
+CLI0779,Homme,75,47,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,31.42,1455.59,1,0,Oui
+CLI0780,Homme,46,6,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,96.89,593.12,3,0,Oui
+CLI0781,Femme,23,15,Deux ans,Fibre optique,Oui,Oui,Carte bancaire,Oui,89.72,1359.26,2,2,Oui
+CLI0782,Homme,65,17,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,96.43,1624.87,2,2,Oui
+CLI0783,Homme,49,46,Un an,Fibre optique,Non,Oui,Carte bancaire,Oui,93.65,4312.02,1,4,Non
+CLI0784,Femme,40,37,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,58.44,2134.17,5,2,Oui
+CLI0785,Homme,48,18,Mensuel,Fibre optique,Non,Non,Chèque postal,Non,96.08,1699.91,1,1,Oui
+CLI0786,Femme,39,13,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,103.12,1360.61,5,0,Oui
+CLI0787,Femme,56,44,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,87.12,3838.86,4,0,Oui
+CLI0788,Homme,77,39,Deux ans,Aucun,Non,Non,Chèque postal,Oui,21.95,846.04,5,2,Non
+CLI0789,Homme,37,19,Deux ans,ADSL,Oui,Oui,Chèque électronique,Oui,67.75,1300.7,3,0,Non
+CLI0790,Femme,18,62,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,107.2,6624.11,4,2,Non
+CLI0791,Homme,43,42,Deux ans,ADSL,Non,Oui,Chèque électronique,Oui,68.91,2877.52,3,0,Non
+CLI0792,Homme,41,47,Mensuel,ADSL,Non,Non,Chèque postal,Oui,45.88,2144.48,2,0,Oui
+CLI0793,Femme,59,24,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Non,101.31,2429.34,2,0,Oui
+CLI0794,Homme,59,52,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,117.01,6072.7,1,0,Oui
+CLI0795,Homme,56,58,Mensuel,ADSL,Non,Non,Chèque postal,Oui,55.63,3219.55,2,5,Oui
+CLI0796,Homme,18,44,Deux ans,ADSL,Oui,Oui,Carte bancaire,Non,64.91,2848.07,4,0,Non
+CLI0797,Femme,34,55,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,89.19,4911.2,4,0,Oui
+CLI0798,Homme,52,51,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,93.06,4771.19,3,0,Non
+CLI0799,Femme,20,10,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,91.76,907.87,4,1,Oui
+CLI0800,Femme,45,52,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,31.9,1663.05,4,4,Non
+CLI0801,Homme,62,7,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,53.71,356.85,3,1,Oui
+CLI0802,Homme,44,27,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,83.26,2235.29,1,0,Oui
+CLI0803,Femme,55,54,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,91.57,4959.33,3,0,Oui
+CLI0804,Homme,61,50,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,99.55,4969.65,1,0,Oui
+CLI0805,Femme,46,60,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,72.91,4352.5,3,1,Non
+CLI0806,Homme,24,51,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,34.77,1802.0,2,2,Oui
+CLI0807,Femme,66,28,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,72.32,2022.79,5,1,Non
+CLI0808,Femme,28,23,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,82.54,1893.52,4,1,Oui
+CLI0809,Homme,57,29,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,57.71,1684.65,3,1,Non
+CLI0810,Homme,65,50,Un an,Aucun,Non,Non,Virement bancaire,Oui,33.12,1636.51,4,0,Non
+CLI0811,Homme,38,17,Mensuel,Aucun,Non,Non,Chèque électronique,Non,29.05,523.23,4,0,Non
+CLI0812,Femme,50,15,Deux ans,ADSL,Non,Non,Chèque électronique,Oui,58.64,873.98,1,1,Oui
+CLI0813,Femme,73,50,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,98.83,4935.4,4,0,Non
+CLI0814,Homme,41,52,Un an,ADSL,Non,Oui,Chèque électronique,Oui,67.14,3504.6,3,2,Non
+CLI0815,Femme,27,32,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,90.1,2873.04,2,2,Oui
+CLI0816,Femme,54,36,Un an,ADSL,Oui,Oui,Chèque électronique,Non,68.55,2475.83,5,0,Non
+CLI0817,Femme,61,38,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,56.35,2146.35,2,0,Oui
+CLI0818,Femme,48,22,Deux ans,ADSL,Non,Oui,Carte bancaire,Non,70.79,1556.42,4,1,Non
+CLI0819,Homme,39,29,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,96.55,2770.68,3,0,Non
+CLI0820,Homme,65,26,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,95.4,2482.66,5,4,Oui
+CLI0821,Homme,46,67,Mensuel,Fibre optique,Non,Non,Virement bancaire,Oui,83.68,5578.97,2,1,Oui
+CLI0822,Femme,23,25,Un an,Aucun,Non,Non,Chèque postal,Oui,23.12,562.64,5,0,Non
+CLI0823,Femme,47,13,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,57.74,733.52,4,0,Oui
+CLI0824,Homme,55,56,Deux ans,Fibre optique,Non,Non,Chèque électronique,Non,82.22,4590.56,1,0,Non
+CLI0825,Femme,50,62,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,28.42,1750.57,3,0,Oui
+CLI0826,Homme,49,1,Mensuel,Aucun,Non,Non,Carte bancaire,Oui,26.48,26.48,2,0,Non
+CLI0827,Femme,39,69,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,105.44,7257.98,3,2,Non
+CLI0828,Femme,28,25,Un an,ADSL,Non,Non,Chèque électronique,Non,60.6,1501.16,5,2,Non
+CLI0829,Femme,77,39,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,92.88,3592.66,4,1,Non
+CLI0830,Homme,79,53,Mensuel,ADSL,Non,Non,Chèque électronique,Oui,50.12,2676.31,2,1,Oui
+CLI0831,Femme,68,49,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,69.86,3428.72,1,0,Non
+CLI0832,Homme,67,50,Un an,Aucun,Non,Non,Carte bancaire,Non,20.89,1017.87,5,1,Non
+CLI0833,Femme,46,37,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,96.71,3581.98,2,3,Oui
+CLI0834,Femme,54,70,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,101.48,7086.49,3,4,Oui
+CLI0835,Homme,47,47,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,60.99,2865.71,2,0,Oui
+CLI0836,Homme,76,66,Mensuel,ADSL,Non,Non,Virement bancaire,Non,56.5,3737.06,5,0,Non
+CLI0837,Homme,80,72,Un an,ADSL,Non,Non,Chèque électronique,Non,48.82,3489.43,5,1,Non
+CLI0838,Femme,47,58,Deux ans,Aucun,Non,Non,Chèque électronique,Non,28.63,1657.78,1,0,Non
+CLI0839,Femme,74,3,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,104.76,330.35,4,0,Oui
+CLI0840,Homme,67,46,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,67.28,3067.25,2,0,Oui
+CLI0841,Femme,79,9,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,113.19,1041.37,3,0,Non
+CLI0842,Homme,71,49,Mensuel,Aucun,Non,Non,Virement bancaire,Oui,26.58,1284.34,4,0,Non
+CLI0843,Homme,23,23,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,79.29,1799.12,5,0,Non
+CLI0844,Femme,34,66,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,56.66,3766.32,3,0,Non
+CLI0845,Homme,62,11,Un an,ADSL,Non,Oui,Chèque postal,Non,58.93,625.91,1,0,Oui
+CLI0846,Femme,66,5,Mensuel,ADSL,Non,Non,Chèque électronique,Non,48.49,243.57,2,0,Oui
+CLI0847,Homme,41,15,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,112.04,1652.65,5,0,Non
+CLI0848,Femme,20,70,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,66.36,4640.1,1,0,Non
+CLI0849,Femme,26,1,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,55.38,75.25,5,1,Non
+CLI0850,Homme,32,66,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,24.23,1606.08,1,1,Oui
+CLI0851,Femme,29,39,Mensuel,Aucun,Non,Non,Virement bancaire,Non,25.62,977.89,2,0,Oui
+CLI0852,Homme,65,50,Un an,ADSL,Non,Oui,Carte bancaire,Oui,53.6,2701.46,2,0,Oui
+CLI0853,Femme,46,28,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,82.98,2345.76,3,5,Non
+CLI0854,Femme,60,13,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,90.79,1183.3,5,0,Non
+CLI0855,Femme,37,58,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,33.28,1930.89,4,2,Oui
+CLI0856,Homme,67,3,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,61.24,185.57,5,0,Oui
+CLI0857,Homme,61,22,Un an,Aucun,Non,Non,Chèque électronique,Oui,29.14,662.58,5,4,Oui
+CLI0858,Femme,36,50,Deux ans,Aucun,Non,Non,Virement bancaire,Non,34.07,1673.52,3,0,Non
+CLI0859,Femme,31,9,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,97.12,855.68,4,2,Oui
+CLI0860,Homme,32,36,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Oui,85.56,3088.37,4,0,Oui
+CLI0861,Homme,67,61,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Oui,102.67,6285.38,1,3,Non
+CLI0862,Homme,42,33,Mensuel,ADSL,Non,Non,Virement bancaire,Non,47.06,1582.84,3,0,Non
+CLI0863,Femme,33,64,Deux ans,Aucun,Non,Non,Carte bancaire,Oui,30.99,2007.64,3,2,Non
+CLI0864,Femme,44,33,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Non,95.7,3174.96,2,1,Non
+CLI0865,Femme,56,67,Deux ans,ADSL,Oui,Oui,Virement bancaire,Oui,80.07,5377.25,5,0,Non
+CLI0866,Femme,63,6,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,54.48,298.33,4,1,Non
+CLI0867,Homme,36,53,Deux ans,ADSL,Non,Oui,Virement bancaire,Non,58.1,3052.17,3,4,Non
+CLI0868,Femme,67,21,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,78.78,1668.77,2,2,Non
+CLI0869,Homme,38,40,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,70.52,2811.02,4,0,Oui
+CLI0870,Femme,66,21,Deux ans,Fibre optique,Oui,Oui,Chèque postal,Non,98.2,2037.63,5,1,Non
+CLI0871,Femme,72,34,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,92.56,3119.49,5,1,Non
+CLI0872,Femme,19,64,Mensuel,ADSL,Oui,Non,Carte bancaire,Oui,55.02,3528.01,2,0,Non
+CLI0873,Femme,53,71,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Non,116.93,8294.24,3,1,Non
+CLI0874,Homme,38,70,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,21.45,1526.55,5,1,Non
+CLI0875,Femme,52,41,Mensuel,ADSL,Oui,Oui,Virement bancaire,Oui,78.02,3204.28,4,0,Oui
+CLI0876,Homme,19,72,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,68.37,4949.48,3,0,Non
+CLI0877,Femme,45,18,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Non,113.91,2052.76,2,1,Non
+CLI0878,Femme,73,1,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Oui,88.54,88.54,5,0,Non
+CLI0879,Homme,71,24,Mensuel,Aucun,Non,Non,Virement bancaire,Non,26.05,637.26,1,0,Oui
+CLI0880,Femme,42,61,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,91.68,5601.31,4,0,Oui
+CLI0881,Femme,66,13,Mensuel,Fibre optique,Non,Non,Chèque électronique,Non,98.91,1287.58,1,0,Oui
+CLI0882,Femme,37,4,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,79.98,299.2,2,1,Oui
+CLI0883,Homme,75,57,Un an,Aucun,Non,Non,Chèque électronique,Oui,20.58,1175.32,4,0,Non
+CLI0884,Homme,69,40,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Oui,83.95,3348.24,4,0,Non
+CLI0885,Femme,68,58,Deux ans,ADSL,Oui,Oui,Chèque électronique,Non,63.12,3659.79,2,2,Non
+CLI0886,Homme,72,67,Mensuel,ADSL,Non,Oui,Virement bancaire,Non,56.6,3808.01,5,1,Non
+CLI0887,Femme,43,56,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,77.53,4314.99,3,0,Non
+CLI0888,Homme,78,12,Mensuel,ADSL,Non,Oui,Carte bancaire,Oui,72.03,855.47,5,0,Non
+CLI0889,Femme,65,66,Mensuel,Fibre optique,Oui,Non,Chèque postal,Oui,106.76,7020.54,4,4,Oui
+CLI0890,Homme,54,2,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,110.4,213.11,3,5,Oui
+CLI0891,Homme,27,19,Un an,ADSL,Oui,Non,Virement bancaire,Non,69.46,1314.29,2,4,Oui
+CLI0892,Femme,42,36,Deux ans,Fibre optique,Non,Oui,Chèque électronique,Non,93.11,3335.34,1,1,Non
+CLI0893,Homme,28,63,Mensuel,ADSL,Oui,Non,Chèque postal,Non,59.68,3736.35,3,1,Oui
+CLI0894,Homme,78,12,Un an,ADSL,Oui,Non,Carte bancaire,Oui,67.95,831.15,1,0,Non
+CLI0895,Homme,45,48,Mensuel,Fibre optique,Non,Oui,Chèque postal,Oui,76.41,3646.84,2,1,Non
+CLI0896,Femme,76,23,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,81.88,1892.72,5,0,Oui
+CLI0897,Femme,22,32,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,101.55,3275.57,1,0,Oui
+CLI0898,Homme,75,14,Un an,Fibre optique,Oui,Oui,Chèque électronique,Oui,85.01,1209.58,2,2,Oui
+CLI0899,Femme,36,50,Mensuel,ADSL,Non,Non,Chèque électronique,Non,48.06,2405.19,4,3,Oui
+CLI0900,Homme,36,23,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Non,102.56,2342.5,3,0,Non
+CLI0901,Femme,31,52,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,92.03,4767.91,3,0,Oui
+CLI0902,Homme,54,25,Deux ans,ADSL,Non,Oui,Carte bancaire,Non,55.26,1358.02,3,1,Non
+CLI0903,Femme,75,53,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Non,77.16,4093.52,2,4,Oui
+CLI0904,Homme,59,52,Un an,ADSL,Oui,Oui,Chèque électronique,Oui,83.09,4343.23,4,0,Non
+CLI0905,Homme,23,3,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,25.35,90.67,3,3,Non
+CLI0906,Femme,71,9,Mensuel,Aucun,Non,Non,Carte bancaire,Non,22.63,191.86,4,0,Non
+CLI0907,Homme,75,20,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,108.94,2188.63,3,1,Oui
+CLI0908,Femme,24,6,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,98.51,617.86,4,1,Oui
+CLI0909,Femme,23,48,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,111.77,5393.97,3,0,Oui
+CLI0910,Femme,28,47,Deux ans,Fibre optique,Oui,Oui,Chèque postal,Non,85.38,4009.8,3,3,Non
+CLI0911,Homme,35,59,Un an,Fibre optique,Oui,Non,Chèque postal,Oui,92.75,5465.05,5,0,Oui
+CLI0912,Femme,62,49,Mensuel,ADSL,Non,Non,Carte bancaire,Non,59.38,2912.76,2,4,Oui
+CLI0913,Femme,23,58,Deux ans,Fibre optique,Non,Oui,Carte bancaire,Oui,99.94,5770.98,1,2,Oui
+CLI0914,Homme,54,31,Un an,Aucun,Non,Non,Chèque électronique,Oui,29.26,886.43,3,3,Non
+CLI0915,Femme,58,43,Un an,Fibre optique,Oui,Non,Chèque électronique,Oui,103.57,4471.01,2,0,Oui
+CLI0916,Homme,63,11,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,64.51,715.12,5,1,Non
+CLI0917,Femme,29,65,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,85.83,5608.47,1,1,Oui
+CLI0918,Femme,56,53,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,80.27,4253.95,3,0,Non
+CLI0919,Homme,57,56,Mensuel,ADSL,Non,Oui,Virement bancaire,Oui,70.86,3979.02,3,1,Non
+CLI0920,Homme,54,34,Un an,Fibre optique,Oui,Non,Chèque électronique,Non,106.3,3619.43,4,0,Oui
+CLI0921,Femme,44,60,Deux ans,Fibre optique,Non,Non,Carte bancaire,Non,92.14,5521.53,4,0,Non
+CLI0922,Homme,68,41,Mensuel,Aucun,Non,Non,Chèque électronique,Non,32.26,1346.98,1,0,Oui
+CLI0923,Homme,31,13,Mensuel,ADSL,Oui,Oui,Carte bancaire,Oui,75.35,985.96,3,2,Oui
+CLI0924,Femme,78,21,Mensuel,ADSL,Oui,Oui,Chèque postal,Non,71.93,1505.51,5,0,Oui
+CLI0925,Femme,58,21,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,94.21,2000.26,3,1,Oui
+CLI0926,Femme,22,3,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,103.01,290.69,4,2,Oui
+CLI0927,Femme,68,30,Un an,ADSL,Non,Oui,Carte bancaire,Oui,57.16,1722.22,3,1,Oui
+CLI0928,Femme,47,35,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,81.72,2851.57,1,0,Oui
+CLI0929,Homme,68,35,Deux ans,ADSL,Oui,Non,Chèque électronique,Oui,56.34,1994.99,5,1,Non
+CLI0930,Femme,33,49,Mensuel,ADSL,Oui,Oui,Chèque électronique,Oui,74.05,3653.04,1,1,Oui
+CLI0931,Femme,53,21,Un an,ADSL,Oui,Oui,Chèque électronique,Non,65.13,1389.79,3,0,Non
+CLI0932,Femme,27,41,Deux ans,Fibre optique,Oui,Oui,Chèque électronique,Oui,109.59,4508.58,3,1,Oui
+CLI0933,Homme,64,17,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,30.71,497.58,5,0,Oui
+CLI0934,Femme,39,11,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,59.35,668.62,2,1,Non
+CLI0935,Homme,33,8,Un an,ADSL,Oui,Non,Chèque électronique,Oui,55.72,467.99,1,0,Oui
+CLI0936,Femme,42,51,Mensuel,ADSL,Oui,Non,Virement bancaire,Oui,52.33,2668.32,1,0,Oui
+CLI0937,Homme,55,48,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,67.75,3258.46,3,1,Oui
+CLI0938,Femme,75,34,Mensuel,ADSL,Oui,Oui,Chèque postal,Non,66.67,2289.23,2,0,Oui
+CLI0939,Femme,71,28,Deux ans,ADSL,Oui,Oui,Carte bancaire,Non,63.98,1781.48,2,1,Non
+CLI0940,Femme,64,42,Mensuel,Fibre optique,Non,Non,Carte bancaire,Non,73.22,3045.26,2,0,Oui
+CLI0941,Homme,72,2,Deux ans,Aucun,Non,Non,Chèque électronique,Non,21.46,35.0,5,4,Non
+CLI0942,Femme,65,48,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Non,109.12,5255.79,2,0,Oui
+CLI0943,Homme,74,61,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,92.34,5644.25,3,0,Oui
+CLI0944,Femme,61,49,Mensuel,ADSL,Non,Oui,Chèque postal,Oui,72.5,3565.63,1,4,Oui
+CLI0945,Femme,19,35,Deux ans,Fibre optique,Non,Non,Chèque postal,Oui,83.06,2934.23,5,2,Non
+CLI0946,Homme,63,7,Mensuel,Fibre optique,Oui,Non,Carte bancaire,Non,93.47,662.65,3,1,Oui
+CLI0947,Femme,41,60,Deux ans,ADSL,Oui,Non,Virement bancaire,Non,53.5,3188.26,3,4,Non
+CLI0948,Femme,46,70,Deux ans,Fibre optique,Oui,Oui,Virement bancaire,Oui,110.15,7714.92,5,0,Non
+CLI0949,Homme,70,51,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Oui,113.84,5789.45,5,0,Non
+CLI0950,Femme,49,15,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,69.81,1076.43,2,1,Oui
+CLI0951,Femme,27,25,Un an,Aucun,Non,Non,Chèque postal,Oui,21.08,554.01,4,0,Oui
+CLI0952,Femme,37,27,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,98.78,2652.27,2,0,Non
+CLI0953,Femme,78,46,Un an,Fibre optique,Non,Oui,Chèque électronique,Non,107.03,4928.98,4,1,Non
+CLI0954,Homme,49,41,Mensuel,Fibre optique,Oui,Non,Virement bancaire,Oui,96.06,3966.74,4,1,Oui
+CLI0955,Homme,42,5,Deux ans,ADSL,Oui,Oui,Chèque électronique,Oui,78.56,364.86,1,0,Oui
+CLI0956,Femme,31,53,Mensuel,ADSL,Non,Non,Chèque électronique,Non,54.26,2887.61,1,1,Oui
+CLI0957,Homme,34,16,Un an,ADSL,Non,Oui,Chèque électronique,Non,53.28,872.72,5,0,Non
+CLI0958,Femme,33,1,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,71.4,71.4,2,0,Oui
+CLI0959,Homme,24,22,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,65.36,1446.01,4,0,Oui
+CLI0960,Femme,20,36,Mensuel,ADSL,Oui,Oui,Virement bancaire,Non,85.86,3068.22,4,0,Oui
+CLI0961,Homme,60,26,Mensuel,Aucun,Non,Non,Chèque électronique,Non,31.85,809.23,4,0,Oui
+CLI0962,Homme,32,26,Mensuel,Fibre optique,Non,Oui,Chèque électronique,Oui,86.69,2242.14,1,1,Oui
+CLI0963,Femme,76,32,Deux ans,ADSL,Oui,Oui,Carte bancaire,Oui,77.08,2445.33,2,0,Oui
+CLI0964,Homme,73,9,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,26.2,243.34,2,1,Non
+CLI0965,Femme,44,8,Un an,Fibre optique,Oui,Oui,Chèque électronique,Non,113.02,902.92,4,0,Non
+CLI0966,Femme,59,21,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,79.94,1651.14,1,1,Oui
+CLI0967,Femme,47,44,Mensuel,ADSL,Oui,Oui,Chèque postal,Non,79.84,3523.89,4,2,Non
+CLI0968,Homme,48,44,Mensuel,ADSL,Oui,Oui,Carte bancaire,Non,78.25,3468.61,3,3,Oui
+CLI0969,Homme,54,25,Mensuel,Fibre optique,Non,Oui,Carte bancaire,Non,100.15,2527.18,5,0,Oui
+CLI0970,Femme,30,47,Un an,ADSL,Oui,Oui,Carte bancaire,Oui,70.46,3292.6,3,1,Non
+CLI0971,Femme,41,32,Mensuel,ADSL,Non,Oui,Chèque électronique,Non,55.12,1766.88,5,0,Oui
+CLI0972,Homme,30,33,Deux ans,ADSL,Non,Oui,Chèque électronique,Non,74.03,2442.36,2,0,Oui
+CLI0973,Femme,42,41,Mensuel,Fibre optique,Oui,Non,Chèque électronique,Oui,91.95,3745.7,3,0,Non
+CLI0974,Femme,31,6,Deux ans,ADSL,Oui,Oui,Carte bancaire,Non,67.93,393.58,3,0,Non
+CLI0975,Homme,27,3,Un an,Fibre optique,Oui,Non,Virement bancaire,Oui,104.27,327.24,5,1,Non
+CLI0976,Femme,69,63,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,87.84,5555.57,2,0,Non
+CLI0977,Femme,31,30,Mensuel,Fibre optique,Non,Oui,Virement bancaire,Non,81.05,2413.81,5,2,Non
+CLI0978,Femme,68,68,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Oui,92.96,6301.38,3,0,Oui
+CLI0979,Homme,38,46,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,101.87,4698.8,1,1,Oui
+CLI0980,Femme,41,49,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,110.27,5386.38,2,0,Oui
+CLI0981,Homme,72,5,Deux ans,Fibre optique,Non,Oui,Chèque postal,Oui,77.06,411.22,5,1,Non
+CLI0982,Femme,27,56,Mensuel,Aucun,Non,Non,Chèque électronique,Non,23.48,1290.42,2,1,Oui
+CLI0983,Homme,36,71,Mensuel,Fibre optique,Oui,Oui,Chèque postal,Oui,97.29,6924.33,1,2,Oui
+CLI0984,Femme,64,23,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,31.5,725.29,3,2,Oui
+CLI0985,Homme,43,18,Mensuel,ADSL,Non,Oui,Carte bancaire,Non,62.43,1136.35,5,2,Non
+CLI0986,Homme,58,6,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Non,102.53,641.78,5,1,Oui
+CLI0987,Femme,66,33,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,97.34,3206.96,1,1,Oui
+CLI0988,Femme,19,41,Mensuel,ADSL,Oui,Non,Virement bancaire,Non,69.53,2838.85,5,2,Oui
+CLI0989,Homme,75,30,Deux ans,Fibre optique,Oui,Non,Chèque électronique,Oui,105.51,3144.03,4,0,Non
+CLI0990,Homme,36,48,Mensuel,ADSL,Oui,Non,Carte bancaire,Non,61.32,2972.24,3,2,Non
+CLI0991,Homme,40,43,Mensuel,Aucun,Non,Non,Chèque électronique,Oui,28.42,1195.65,2,1,Oui
+CLI0992,Femme,19,58,Mensuel,ADSL,Oui,Non,Chèque électronique,Oui,72.98,4228.84,5,1,Non
+CLI0993,Homme,79,20,Deux ans,Fibre optique,Non,Oui,Virement bancaire,Non,103.1,2055.03,2,0,Oui
+CLI0994,Homme,20,39,Mensuel,Fibre optique,Oui,Oui,Virement bancaire,Oui,94.07,3642.7,4,1,Non
+CLI0995,Femme,64,62,Un an,Fibre optique,Non,Oui,Virement bancaire,Oui,101.75,6322.18,1,1,Oui
+CLI0996,Femme,79,34,Un an,ADSL,Non,Non,Carte bancaire,Non,58.64,2006.75,5,0,Non
+CLI0997,Femme,69,32,Mensuel,Fibre optique,Oui,Oui,Carte bancaire,Non,105.17,3384.88,4,0,Non
+CLI0998,Homme,74,32,Mensuel,Fibre optique,Oui,Oui,Chèque électronique,Non,95.03,3067.87,4,1,Non
+CLI0999,Femme,77,8,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,78.21,619.46,1,0,Oui
+CLI1000,Femme,72,31,Mensuel,ADSL,Oui,Oui,Chèque électronique,Non,62.86,1944.37,1,0,Non
