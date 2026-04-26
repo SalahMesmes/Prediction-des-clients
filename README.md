@@ -134,7 +134,26 @@ une matrice de confusion : [[57 39]
 71 = clients partis bien prédits comme partis
 
 
+Étape 6 : faire une prédiction
 
+Le fichier : src/predict.py
+
+sert à charger le modèle sauvegardé et à faire une prédiction sur un nouveau client.
+
+Il reçoit les informations d’un client, par exemple :
+ Age : 35
+AncienneteMois : 12
+TypeContrat : Mensuel
+ScoreSatisfaction : 2
+NombreReclamations : 3
+
+Puis il retourne : Oui ou Non
+
+Étape 7 : interface avec Streamlit
+
+Le fichier : app/dashboard.py
+
+crée une interface web simple avec Streamlit.
 
 
 
